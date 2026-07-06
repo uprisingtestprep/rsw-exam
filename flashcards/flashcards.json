@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "common_occupational_skills",
+    "front": "What does WHMIS 2015 stand for?",
+    "back": "WHMIS stands for the Workplace Hazardous Materials Information System. The 2015 version aligns Canada with the Globally Harmonized System (GHS). It uses standard pictograms, labels, and Safety Data Sheets so workers know the hazards of chemical products and how to handle them safely."
+  },
+  {
+    "id": 2,
+    "domain": "common_occupational_skills",
+    "front": "What is a Safety Data Sheet (SDS)?",
+    "back": "An SDS is a document that gives detailed information about a hazardous product. It has 16 standard sections covering hazards, first aid, handling, storage, and emergency steps. Employers must keep current SDS available to all workers who use or could be exposed to the product."
+  },
+  {
+    "id": 3,
+    "domain": "common_occupational_skills",
+    "front": "Name three common WHMIS 2015 hazard pictograms.",
+    "back": "Common pictograms include the flame for flammable products, the skull and crossbones for acute toxicity, and the corrosion symbol for products that burn skin or metal. Each is a red diamond border with a black symbol on white. They give a fast visual warning of the main hazard."
+  },
+  {
+    "id": 4,
+    "domain": "common_occupational_skills",
+    "front": "What two label types exist under WHMIS 2015?",
+    "back": "There are supplier labels and workplace labels. Supplier labels come from the manufacturer with full GHS details. Workplace labels are used when a product is moved into a new container at work and need the product name, safe handling info, and a reference to the SDS."
+  },
+  {
+    "id": 5,
+    "domain": "common_occupational_skills",
+    "front": "What is the order of priority in the hazard control hierarchy?",
+    "back": "The order is elimination, substitution, engineering controls, administrative controls, then personal protective equipment. You try to remove or replace the hazard first because that protects everyone. PPE comes last because it only protects the one person wearing it and relies on correct use."
+  },
+  {
+    "id": 6,
+    "domain": "common_occupational_skills",
+    "front": "What shade number is generally needed for arc welding?",
+    "back": "Arc welding usually needs a filter lens between shade 10 and 14, depending on the amperage and process. Higher current means a darker shade. The filter blocks the intense ultraviolet and infrared light that can cause arc eye and permanent eye damage."
+  },
+  {
+    "id": 7,
+    "domain": "common_occupational_skills",
+    "front": "What is arc eye (welder's flash)?",
+    "back": "Arc eye is a painful burn to the surface of the eye caused by ultraviolet light from the welding arc. Symptoms feel like sand in the eyes and appear hours after exposure. It is prevented by wearing a proper shaded helmet and protecting bystanders with screens."
+  },
+  {
+    "id": 8,
+    "domain": "common_occupational_skills",
+    "front": "Why must welders wear flame-resistant clothing?",
+    "back": "Flame-resistant clothing resists ignition from sparks, spatter, and hot metal. Cotton or leather is preferred because synthetics can melt onto the skin and cause deep burns. Sleeves and collars should be buttoned and pants worn over boots to keep sparks out."
+  },
+  {
+    "id": 9,
+    "domain": "common_occupational_skills",
+    "front": "What CSA standard covers safety in welding and cutting?",
+    "back": "CSA W117.2 is the Canadian standard for safety in welding, cutting, and allied processes. It covers fire prevention, ventilation, PPE, confined space, and protection from fumes and radiation. Welders are expected to follow its requirements on the job."
+  },
+  {
+    "id": 10,
+    "domain": "common_occupational_skills",
+    "front": "What is a hot work permit?",
+    "back": "A hot work permit is a written authorization to do welding, cutting, or grinding in an area where sparks could start a fire. It confirms hazards are controlled, a fire watch is set, and extinguishers are ready. Permits are common in plants, refineries, and confined spaces."
+  },
+  {
+    "id": 11,
+    "domain": "common_occupational_skills",
+    "front": "What is a fire watch in hot work?",
+    "back": "A fire watch is a person assigned to look for fires during and after hot work. They watch for smouldering sparks, keep an extinguisher ready, and stay on duty for a set time after the work stops, often 30 to 60 minutes. They sound the alarm if a fire starts."
+  },
+  {
+    "id": 12,
+    "domain": "common_occupational_skills",
+    "front": "What are the elements of the fire triangle?",
+    "back": "The fire triangle is fuel, heat, and oxygen. A fire needs all three to start and keep burning. Removing any one of them puts the fire out, which is how extinguishers work by cutting off oxygen or cooling the fuel."
+  },
+  {
+    "id": 13,
+    "domain": "common_occupational_skills",
+    "front": "Which fire extinguisher class is for flammable liquids?",
+    "back": "Class B extinguishers are for flammable liquids like fuel, oil, and grease. Class A is for ordinary combustibles such as wood and paper, and Class C is for electrical fires. Many shop extinguishers are ABC rated so they cover all three common types."
+  },
+  {
+    "id": 14,
+    "domain": "common_occupational_skills",
+    "front": "Why is ventilation important when welding?",
+    "back": "Welding produces fumes and gases that can harm the lungs and cause sickness. Good ventilation removes these fumes from the breathing zone before the welder inhales them. Without enough airflow, dangerous gases can build up, especially in tight or enclosed spaces."
+  },
+  {
+    "id": 15,
+    "domain": "common_occupational_skills",
+    "front": "What is local exhaust ventilation?",
+    "back": "Local exhaust ventilation captures fumes right at the source before they spread. A hood or nozzle is placed close to the arc to pull contaminated air away. It is more effective than general room ventilation because it removes fumes before the welder breathes them."
+  },
+  {
+    "id": 16,
+    "domain": "common_occupational_skills",
+    "front": "What health hazard comes from welding galvanized steel?",
+    "back": "Welding galvanized steel releases zinc oxide fumes that can cause metal fume fever. Symptoms feel like the flu with chills, fever, and aches that pass within a day or two. It is prevented by using strong ventilation or respiratory protection."
+  },
+  {
+    "id": 17,
+    "domain": "common_occupational_skills",
+    "front": "Why is welding stainless steel a special fume hazard?",
+    "back": "Welding stainless steel can release hexavalent chromium, which is a known carcinogen, meaning it can cause cancer. It can also produce nickel fumes. Strong local exhaust or respiratory protection is needed to keep exposure as low as possible."
+  },
+  {
+    "id": 18,
+    "domain": "common_occupational_skills",
+    "front": "What gas is dangerous when welding near degreased or coated surfaces?",
+    "back": "Chlorinated solvents near a welding arc can break down into phosgene, a poisonous gas. This is why parts must not be welded right after cleaning with these solvents. Always let parts dry and keep solvent containers away from the work area."
+  },
+  {
+    "id": 19,
+    "domain": "common_occupational_skills",
+    "front": "What is the main electrical danger in arc welding?",
+    "back": "Electric shock is the main danger because welding uses live electrodes and circuits. Wet conditions, damaged cables, or poor grounding raise the risk. Even though welding voltage is fairly low, it can still cause a fatal shock under the wrong conditions."
+  },
+  {
+    "id": 20,
+    "domain": "common_occupational_skills",
+    "front": "What is open circuit voltage (OCV)?",
+    "back": "Open circuit voltage is the voltage present at the electrode before the arc is struck. It is higher than the welding voltage and can deliver a shock if you touch the electrode and work at the same time. Welders should never let bare skin complete the circuit."
+  },
+  {
+    "id": 21,
+    "domain": "common_occupational_skills",
+    "front": "Why must a welding machine be properly grounded?",
+    "back": "Grounding gives stray electrical current a safe path to the earth instead of through the welder's body. A loose or missing ground can leave the machine frame live. Always check the ground connection and never remove the grounding pin from a plug."
+  },
+  {
+    "id": 22,
+    "domain": "common_occupational_skills",
+    "front": "What is lockout/tagout (LOTO)?",
+    "back": "Lockout/tagout is a procedure to shut off and secure energy sources before working on equipment. A lock keeps the switch off and a tag warns others not to turn it on. This stops machines from starting unexpectedly and causing injury."
+  },
+  {
+    "id": 23,
+    "domain": "common_occupational_skills",
+    "front": "What is a confined space?",
+    "back": "A confined space is an area large enough to enter but not designed for continuous occupancy, with limited entry and exit. Examples are tanks, pits, and boilers. They can trap dangerous gases or low oxygen, so they need special entry procedures."
+  },
+  {
+    "id": 24,
+    "domain": "common_occupational_skills",
+    "front": "What must happen before entering a confined space?",
+    "back": "The air must be tested for oxygen level, flammable gas, and toxic gas. An entry permit, ventilation, and a trained attendant outside are usually required. Welding inside a confined space adds fume and fire risk, so controls are even stricter."
+  },
+  {
+    "id": 25,
+    "domain": "common_occupational_skills",
+    "front": "What is the safe oxygen range for confined space air?",
+    "back": "Normal air is about 20.9 percent oxygen. Entry is generally unsafe below 19.5 percent or above 23.5 percent. Too little oxygen causes suffocation, and too much makes fires and clothing burn faster. Air must be tested before and during entry."
+  },
+  {
+    "id": 26,
+    "domain": "common_occupational_skills",
+    "front": "What is a rigging plan?",
+    "back": "A rigging plan is the worked-out method for lifting a load safely. It identifies the load weight, the center of gravity, the slings and hardware needed, and the lift path. Planning the lift before hooking up prevents dropped loads and injuries."
+  },
+  {
+    "id": 27,
+    "domain": "common_occupational_skills",
+    "front": "What is the working load limit (WLL)?",
+    "back": "The working load limit is the maximum weight a sling, hook, or shackle is rated to carry safely. It is set by the manufacturer with a safety factor built in. Never exceed the WLL, and reduce it when the rigging angle increases the load."
+  },
+  {
+    "id": 28,
+    "domain": "common_occupational_skills",
+    "front": "How does sling angle affect tension?",
+    "back": "As the sling angle from horizontal gets smaller, the tension in each sling leg increases. A wide flat angle puts far more force on the slings than a steep near-vertical one. That is why low angles are avoided and load charts are checked."
+  },
+  {
+    "id": 29,
+    "domain": "common_occupational_skills",
+    "front": "What is a center of gravity in lifting?",
+    "back": "The center of gravity is the balance point of a load. The hook should be positioned over it so the load lifts level and does not swing or tip. An off-center pick can cause the load to roll or slip out of the slings."
+  },
+  {
+    "id": 30,
+    "domain": "common_occupational_skills",
+    "front": "Why inspect slings before each use?",
+    "back": "Slings wear out from cuts, fraying, broken wires, kinks, or heat damage. A damaged sling can fail without warning and drop the load. Inspecting before each use lets you remove unsafe slings from service before someone is hurt."
+  },
+  {
+    "id": 31,
+    "domain": "common_occupational_skills",
+    "front": "What are standard crane hand signals used for?",
+    "back": "Hand signals let a signaller direct a crane operator clearly when voice contact is hard. There are agreed signals for hoist, lower, swing, and stop. Only one person should signal at a time, but anyone can give the stop signal in an emergency."
+  },
+  {
+    "id": 32,
+    "domain": "common_occupational_skills",
+    "front": "What is a tag line in rigging?",
+    "back": "A tag line is a rope attached to a suspended load so a worker can guide it from a safe distance. It keeps the load from spinning or swinging into people. Workers should never put their hands directly on a moving suspended load."
+  },
+  {
+    "id": 33,
+    "domain": "common_occupational_skills",
+    "front": "What is a shackle and how is it used?",
+    "back": "A shackle is a U-shaped metal link with a removable pin used to connect slings to loads and hooks. It must be rated for the load and the pin fully seated. Never replace a shackle pin with a bolt because a bolt is not rated for the load."
+  },
+  {
+    "id": 34,
+    "domain": "common_occupational_skills",
+    "front": "When should an angle grinder guard be removed?",
+    "back": "Never. The guard protects the operator from sparks and from pieces of the wheel if it shatters. Removing it is a serious safety violation. Always keep the guard positioned between the wheel and your body and face."
+  },
+  {
+    "id": 35,
+    "domain": "common_occupational_skills",
+    "front": "Why check the rated speed of a grinding wheel?",
+    "back": "Every grinding wheel has a maximum safe RPM marked on it. If the grinder spins faster than that rating, the wheel can burst and throw fragments. Always match the wheel rating to the tool and never use a cracked wheel."
+  },
+  {
+    "id": 36,
+    "domain": "common_occupational_skills",
+    "front": "How do you test a grinding wheel for cracks?",
+    "back": "A ring test is used on bonded abrasive wheels. You tap the wheel gently and listen for a clear ringing tone. A dull or dead sound means the wheel may be cracked and must not be used. Also inspect visually before mounting."
+  },
+  {
+    "id": 37,
+    "domain": "common_occupational_skills",
+    "front": "What PPE is needed when grinding?",
+    "back": "Grinding requires eye protection plus a face shield, since safety glasses alone do not stop all flying particles. Hearing protection, gloves, and flame-resistant clothing are also used. A respirator may be needed when grinding produces harmful dust."
+  },
+  {
+    "id": 38,
+    "domain": "common_occupational_skills",
+    "front": "Why must oxygen and fuel cylinders be stored upright and secured?",
+    "back": "Cylinders are heavy and under high pressure, so they must be chained or strapped upright to prevent tipping. A knocked-over cylinder can damage the valve and become a dangerous projectile. Oxygen and fuel gases should be stored apart with caps on when not in use."
+  },
+  {
+    "id": 39,
+    "domain": "common_occupational_skills",
+    "front": "Why keep oil and grease away from oxygen cylinders?",
+    "back": "Oxygen makes oil and grease ignite violently, even without a spark. Hands, gloves, and fittings must be free of grease when handling oxygen equipment. This is why oxygen fittings should never be lubricated."
+  },
+  {
+    "id": 40,
+    "domain": "common_occupational_skills",
+    "front": "What is a flashback arrestor?",
+    "back": "A flashback arrestor is a safety device on oxy-fuel equipment that stops a flame from traveling back up the hose into the cylinder. A flashback can cause an explosion. Arrestors are fitted at the torch and often at the regulators."
+  },
+  {
+    "id": 41,
+    "domain": "common_occupational_skills",
+    "front": "How do you check for gas leaks on oxy-fuel equipment?",
+    "back": "Use a soapy water solution brushed on the connections and watch for bubbles. Never use a flame to check for leaks. If bubbles appear, shut off the gas and tighten or repair the connection before lighting the torch."
+  },
+  {
+    "id": 42,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between accuracy and precision?",
+    "back": "Accuracy means how close a measurement is to the true value. Precision means how close repeated measurements are to each other. A measurement can be precise but still wrong if the tool is not accurate, so both matter in fabrication."
+  },
+  {
+    "id": 43,
+    "domain": "common_occupational_skills",
+    "front": "What does a tape measure's smallest fraction usually represent?",
+    "back": "Most imperial tapes are divided down to one sixteenth of an inch, and some to one thirty-second. Reading the smallest line correctly avoids layout errors. Metric tapes are read in millimetres, with each small line being one millimetre."
+  },
+  {
+    "id": 44,
+    "domain": "common_occupational_skills",
+    "front": "What is a combination square used for?",
+    "back": "A combination square checks and marks 90 degree and 45 degree angles, measures depth, and finds the center of round stock. The sliding head makes it versatile for layout work. It is a core tool for accurate marking before cutting or welding."
+  },
+  {
+    "id": 45,
+    "domain": "common_occupational_skills",
+    "front": "How do you convert 3/4 inch to a decimal?",
+    "back": "Divide the top number by the bottom number, so 3 divided by 4 equals 0.75 inch. Converting fractions to decimals helps when reading drawings or machine settings. Going the other way, 0.5 inch equals one half inch."
+  },
+  {
+    "id": 46,
+    "domain": "common_occupational_skills",
+    "front": "How do you find the circumference of a pipe?",
+    "back": "Multiply the diameter by pi, which is about 3.1416. For example, a pipe with a 6 inch diameter has a circumference of about 18.85 inches. Welders use this to lay out wraps and mark cut lines around pipe."
+  },
+  {
+    "id": 47,
+    "domain": "common_occupational_skills",
+    "front": "What is the Pythagorean theorem used for in the trade?",
+    "back": "The theorem says a squared plus b squared equals c squared for a right triangle. Welders use it to lay out square corners and check that frames are not racked. A common version is the 3-4-5 method to set a true 90 degree angle."
+  },
+  {
+    "id": 48,
+    "domain": "common_occupational_skills",
+    "front": "How do you use the 3-4-5 method to check square?",
+    "back": "Measure 3 units along one side and 4 units along the other side from the corner. If the diagonal between those points is 5 units, the corner is square. Any multiple works, such as 6-8-10, for larger layouts."
+  },
+  {
+    "id": 49,
+    "domain": "common_occupational_skills",
+    "front": "How do you calculate the area of a rectangle?",
+    "back": "Multiply length by width. For a plate 4 feet by 2 feet, the area is 8 square feet. Area calculations help estimate coating, material, and cutting needs on a job."
+  },
+  {
+    "id": 50,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between bilateral and unilateral tolerance?",
+    "back": "Bilateral tolerance allows variation in both directions, such as plus or minus 1 millimetre. Unilateral tolerance allows variation in only one direction, such as plus 1 and minus 0. Tolerances on a drawing tell you how much a dimension can vary and still pass."
+  },
+  {
+    "id": 51,
+    "domain": "common_occupational_skills",
+    "front": "Why are clear communication skills important on a job site?",
+    "back": "Welders work in teams with fitters, supervisors, and inspectors, so clear messages prevent mistakes and injuries. Confirming instructions and asking when unsure avoids costly rework. Good communication also keeps everyone aware of hazards around the work."
+  },
+  {
+    "id": 52,
+    "domain": "common_occupational_skills",
+    "front": "What is a toolbox talk?",
+    "back": "A toolbox talk is a short safety meeting held before work begins. The crew reviews the day's tasks, hazards, and controls. These talks keep safety fresh and let workers raise concerns before starting."
+  },
+  {
+    "id": 53,
+    "domain": "common_occupational_skills",
+    "front": "Why follow a welding procedure specification (WPS)?",
+    "back": "A WPS is a written document that lists the approved settings and steps for a weld, such as material, process, amperage, and joint design. Following it ensures the weld meets code and quality requirements. Working outside the WPS can cause a failed inspection."
+  },
+  {
+    "id": 54,
+    "domain": "common_occupational_skills",
+    "front": "What information is found on a welding drawing weld symbol?",
+    "back": "A weld symbol shows the weld type, size, location, and any special instructions like field weld or weld all around. It is placed on a reference line pointing to the joint. Reading symbols correctly tells the welder exactly what is required."
+  },
+  {
+    "id": 55,
+    "domain": "common_occupational_skills",
+    "front": "What is the difference between the arrow side and other side on a weld symbol?",
+    "back": "The arrow side is the joint the arrow points to, and its weld info goes below the reference line. The other side is the opposite face, with its info above the line. This tells the welder which side or sides need welding."
+  },
+  {
+    "id": 56,
+    "domain": "common_occupational_skills",
+    "front": "Why keep accurate documentation of welds?",
+    "back": "Records show what was welded, by whom, and to which procedure. They support traceability if a problem is found later and prove the work met code. Many jobs require sign-offs, heat numbers, and inspection reports kept on file."
+  },
+  {
+    "id": 57,
+    "domain": "common_occupational_skills",
+    "front": "What is material traceability?",
+    "back": "Traceability is the ability to track a piece of metal back to its source using heat numbers and mill certificates. It confirms the material meets the specified grade. On code work, traceability is required so substandard material can be traced and removed."
+  },
+  {
+    "id": 58,
+    "domain": "common_occupational_skills",
+    "front": "What is a mill test report (MTR)?",
+    "back": "A mill test report is a document from the steel mill listing the chemical and mechanical properties of a batch of metal. It proves the material meets the required grade and standard. Welders and inspectors use it to confirm the right material is being used."
+  },
+  {
+    "id": 59,
+    "domain": "common_occupational_skills",
+    "front": "Why plan a job before starting to weld?",
+    "back": "Planning sets the sequence, materials, tools, and safety steps ahead of time. It reduces wasted material, prevents distortion from poor weld order, and keeps the job on schedule. A few minutes of planning saves hours of rework."
+  },
+  {
+    "id": 60,
+    "domain": "common_occupational_skills",
+    "front": "How does weld sequence affect distortion?",
+    "back": "Heat from welding makes metal expand and contract, which can pull a part out of shape. Welding in a planned, balanced order spreads the heat and controls distortion. Techniques like back-step and skip welding help keep parts straight."
+  },
+  {
+    "id": 61,
+    "domain": "common_occupational_skills",
+    "front": "What is professionalism on a job site?",
+    "back": "Professionalism means showing up on time, doing quality work, respecting coworkers, and following safety rules. It also means taking responsibility for mistakes and communicating honestly. A professional reputation leads to steady work and trust from employers."
+  },
+  {
+    "id": 62,
+    "domain": "common_occupational_skills",
+    "front": "What are the three basic worker rights under OHS law?",
+    "back": "Workers have the right to know about hazards, the right to participate in safety decisions, and the right to refuse unsafe work. These rights are the foundation of occupational health and safety in Canada. Employers must support them."
+  },
+  {
+    "id": 63,
+    "domain": "common_occupational_skills",
+    "front": "What is a near miss and why report it?",
+    "back": "A near miss is an event that could have caused injury or damage but did not. Reporting near misses helps find hazards before they cause real harm. Treating them as warnings allows fixes to be made early."
+  },
+  {
+    "id": 64,
+    "domain": "common_occupational_skills",
+    "front": "Why wear hearing protection in a fabrication shop?",
+    "back": "Grinding, cutting, and hammering produce noise loud enough to cause permanent hearing loss over time. Earplugs or earmuffs reduce the noise reaching the ear. Hearing damage builds slowly and cannot be reversed, so protection is worn early and consistently."
+  },
+  {
+    "id": 65,
+    "domain": "common_occupational_skills",
+    "front": "When is a respirator required for welding?",
+    "back": "A respirator is needed when ventilation cannot keep fumes below safe limits, such as in confined spaces or with toxic metals like stainless or galvanized. The respirator must be the right type and fit-tested. Air-supplied respirators are used where oxygen is low."
+  },
+  {
+    "id": 66,
+    "domain": "common_occupational_skills",
+    "front": "What is a respirator fit test?",
+    "back": "A fit test checks that a tight-fitting respirator seals properly against the wearer's face. A poor seal lets contaminated air leak in. Facial hair under the seal breaks the fit, so it must be removed where a tight respirator is required."
+  },
+  {
+    "id": 67,
+    "domain": "common_occupational_skills",
+    "front": "Why are CSA approved safety boots required?",
+    "back": "Welding shops have heavy materials, sparks, and rolling loads that can crush or burn feet. CSA approved boots have a protective toe, sole puncture protection, and meet electrical standards. The green triangle on the boot marks a Grade 1 toe and sole."
+  },
+  {
+    "id": 68,
+    "domain": "common_occupational_skills",
+    "front": "What does the green triangle on safety footwear mean?",
+    "back": "The green triangle marks Grade 1 protective toe footwear with puncture-resistant soles. It is the most common rating in heavy industry. Other symbols, like the white rectangle with an orange omega, indicate electrical shock resistance."
+  },
+  {
+    "id": 69,
+    "domain": "common_occupational_skills",
+    "front": "Why keep the work area clean and tidy?",
+    "back": "Clutter creates trip hazards, hides fire risks, and slows work. Keeping floors, cords, and hoses organized reduces accidents. Good housekeeping is part of safe shop practice, not just neatness."
+  },
+  {
+    "id": 70,
+    "domain": "common_occupational_skills",
+    "front": "How should welding cables and leads be managed?",
+    "back": "Cables should be kept out of walkways, off wet floors, and away from sharp edges and hot metal. Damaged insulation must be repaired or the cable replaced to prevent shock and fire. Coiling unused cable keeps the area safe and tidy."
+  },
+  {
+    "id": 71,
+    "domain": "common_occupational_skills",
+    "front": "What is the safe way to lift a heavy object by hand?",
+    "back": "Keep your back straight, bend at the knees, and lift with your legs while holding the load close to your body. Avoid twisting while lifting. If the load is too heavy or awkward, get help or use a lifting device."
+  },
+  {
+    "id": 72,
+    "domain": "common_occupational_skills",
+    "front": "What causes spatter to start fires?",
+    "back": "Welding spatter is hot molten metal that can travel several metres and land on combustibles. It can smoulder unseen and ignite later. Removing or covering flammable materials and posting a fire watch controls this risk."
+  },
+  {
+    "id": 73,
+    "domain": "common_occupational_skills",
+    "front": "Why use welding screens or curtains?",
+    "back": "Welding screens block the harmful arc light from reaching other workers nearby. Without them, passersby can get arc eye even without looking directly at the arc. The screens also help contain sparks within the work area."
+  },
+  {
+    "id": 74,
+    "domain": "common_occupational_skills",
+    "front": "What is the danger of welding on a closed container?",
+    "back": "A sealed container can hold flammable residue or vapours, and heating it can cause an explosion. Containers must be cleaned, purged, and vented before any hot work. Even an empty fuel drum can explode if not properly prepared."
+  },
+  {
+    "id": 75,
+    "domain": "common_occupational_skills",
+    "front": "What does PPE stand for and what is its role?",
+    "back": "PPE stands for personal protective equipment. It is gear worn to protect the body, such as helmets, gloves, boots, and respirators. PPE is the last line of defence and is used together with other controls, not instead of them."
+  },
+  {
+    "id": 76,
+    "domain": "common_occupational_skills",
+    "front": "Why select the correct welding gloves for the process?",
+    "back": "Different processes need different glove protection. Heavy leather gloves suit stick welding, while thinner gloves give better feel for TIG work. The right gloves protect from heat, sparks, and electric shock while allowing the needed control."
+  },
+  {
+    "id": 77,
+    "domain": "common_occupational_skills",
+    "front": "What is the purpose of a job hazard analysis (JHA)?",
+    "back": "A job hazard analysis breaks a task into steps and identifies the hazards and controls for each step. It is done before starting work to plan safety. The JHA helps workers spot risks they might otherwise miss."
+  },
+  {
+    "id": 78,
+    "domain": "common_occupational_skills",
+    "front": "How should compressed gas cylinders be moved?",
+    "back": "Cylinders are moved with a cart and chained in place, with the valve cap on and regulators removed. They should never be dragged, rolled on their side, or lifted by the cap. Proper handling prevents valve damage and tipping."
+  },
+  {
+    "id": 79,
+    "domain": "common_occupational_skills",
+    "front": "Why read drawings carefully before fabricating?",
+    "back": "Drawings carry the dimensions, tolerances, weld symbols, and material grades for the job. Misreading them leads to wrong cuts, scrap, and rework. Taking time to understand the print before cutting metal saves time and material."
+  },
+  {
+    "id": 80,
+    "domain": "common_occupational_skills",
+    "front": "What is the role of a competent person in safety law?",
+    "back": "A competent person is someone with the knowledge, training, and experience to recognize and control hazards for a task. Many duties, like confined space entry or rigging, must be supervised by a competent person. They take responsibility for the safety of that work."
+  },
+  {
+    "id": 81,
+    "domain": "layout_and_fabrication",
+    "front": "What is an orthographic drawing?",
+    "back": "An orthographic drawing shows an object using several flat two-dimensional views, usually the front, top, and side. Each view looks straight at one face of the object. Together these views give you all the sizes and shapes needed to build the part."
+  },
+  {
+    "id": 82,
+    "domain": "layout_and_fabrication",
+    "front": "What is an isometric drawing?",
+    "back": "An isometric drawing shows an object as a single three-dimensional picture, tilted so you can see three sides at once. The three main axes are drawn at 30 degrees from horizontal. It helps a welder picture the finished part but does not always show true lengths for every line."
+  },
+  {
+    "id": 83,
+    "domain": "layout_and_fabrication",
+    "front": "What does the title block on a drawing tell you?",
+    "back": "The title block sits in a corner of the drawing and lists key facts about the part. It usually shows the part name, drawing number, scale, drawing date, who drew it, and the general tolerances. Always read it first so you know what you are building."
+  },
+  {
+    "id": 84,
+    "domain": "layout_and_fabrication",
+    "front": "What is a revision block?",
+    "back": "A revision block records every change made to a drawing after it was first released. Each change gets a letter or number, a short note, and a date. Always work from the latest revision so you do not build an old, outdated version."
+  },
+  {
+    "id": 85,
+    "domain": "layout_and_fabrication",
+    "front": "What is the difference between a detail drawing and an assembly drawing?",
+    "back": "A detail drawing shows one single part with all its sizes so it can be made. An assembly drawing shows how several parts fit together to form the finished product. Welders often need both to know the part shapes and how they join."
+  },
+  {
+    "id": 86,
+    "domain": "layout_and_fabrication",
+    "front": "On a drawing, what does a solid thick line represent?",
+    "back": "A solid thick line is the visible object line. It shows the edges and outlines of the part that you can actually see from that view. It is the heaviest line on the drawing so it stands out."
+  },
+  {
+    "id": 87,
+    "domain": "layout_and_fabrication",
+    "front": "What does a dashed (hidden) line show on a drawing?",
+    "back": "A dashed line, called a hidden line, shows an edge or surface that is behind the object and cannot be seen from that view. It lets you understand features like holes or steps that are out of sight. It is drawn thinner than a visible object line."
+  },
+  {
+    "id": 88,
+    "domain": "layout_and_fabrication",
+    "front": "What is a center line on a drawing?",
+    "back": "A center line is a thin line made of long and short dashes. It marks the middle of round features such as holes, shafts, and arcs. It also shows lines of symmetry where a part is mirror-image on both sides."
+  },
+  {
+    "id": 89,
+    "domain": "layout_and_fabrication",
+    "front": "What is a section view and why is it used?",
+    "back": "A section view shows what a part would look like if it were cut through, like slicing bread. It reveals inside features that hidden lines alone make hard to read. The cut surface is shown with diagonal hatching lines."
+  },
+  {
+    "id": 90,
+    "domain": "layout_and_fabrication",
+    "front": "What do cutting plane lines indicate?",
+    "back": "Cutting plane lines show exactly where a part is imagined to be sliced to make a section view. Arrows at the ends point in the direction you are looking. Letters near the arrows label the matching section, such as Section A-A."
+  },
+  {
+    "id": 91,
+    "domain": "layout_and_fabrication",
+    "front": "What does the scale 1:2 mean on a drawing?",
+    "back": "A scale of 1:2 means the drawing is half the size of the real part. One unit on paper equals two units on the actual object. Always read sizes from the dimension numbers, not by measuring the drawing with a ruler."
+  },
+  {
+    "id": 92,
+    "domain": "layout_and_fabrication",
+    "front": "Why should you never scale measurements off a drawing with a ruler?",
+    "back": "Printed drawings can stretch, shrink, or copy at the wrong size, so a ruler reading may be wrong. The written dimension numbers are always the true sizes to use. Trust the numbers, not your measurement of the lines."
+  },
+  {
+    "id": 93,
+    "domain": "layout_and_fabrication",
+    "front": "What are the basic parts of a welding symbol?",
+    "back": "A welding symbol has a reference line, an arrow, and a tail. The weld type symbol and size sit on the reference line. The arrow points to the joint, and the tail can hold extra notes like the welding process or specification."
+  },
+  {
+    "id": 94,
+    "domain": "layout_and_fabrication",
+    "front": "On a weld symbol, what does a mark below the reference line mean?",
+    "back": "A weld symbol placed below the reference line means the weld goes on the arrow side of the joint, the same side the arrow points to. This is the standard for CSA and AWS symbols. The position of the symbol tells you which side to weld."
+  },
+  {
+    "id": 95,
+    "domain": "layout_and_fabrication",
+    "front": "On a weld symbol, what does a mark above the reference line mean?",
+    "back": "A weld symbol placed above the reference line means the weld goes on the other side of the joint, away from the arrow. So below the line is arrow side and above the line is other side. Reading the side correctly stops you welding the wrong face."
+  },
+  {
+    "id": 96,
+    "domain": "layout_and_fabrication",
+    "front": "What weld does a triangle symbol represent?",
+    "back": "A triangle on the reference line stands for a fillet weld. A fillet weld joins two surfaces that meet at roughly a right angle, like a T-joint or lap joint. The number next to the triangle gives the leg size of the fillet."
+  },
+  {
+    "id": 97,
+    "domain": "layout_and_fabrication",
+    "front": "How is fillet weld size shown on a welding symbol?",
+    "back": "The fillet weld leg size is written to the left of the triangle symbol. The leg is the length of the weld face measured along each joined plate. If both legs differ, both sizes are shown in brackets."
+  },
+  {
+    "id": 98,
+    "domain": "layout_and_fabrication",
+    "front": "What does the weld length appear as on a welding symbol?",
+    "back": "The weld length is written to the right of the weld symbol. It tells you how long the weld must run. If a pitch number follows after a dash, the weld is intermittent and repeats at set spacing."
+  },
+  {
+    "id": 99,
+    "domain": "layout_and_fabrication",
+    "front": "What is an intermittent fillet weld shown as 50-150 on a symbol?",
+    "back": "An intermittent fillet weld is a series of short welds with gaps between them instead of one long weld. The notation 50-150 means each weld is 50 mm long with 150 mm center-to-center spacing. It saves filler metal and reduces heat and distortion."
+  },
+  {
+    "id": 100,
+    "domain": "layout_and_fabrication",
+    "front": "What does a flag at the bend of a welding symbol mean?",
+    "back": "A flag at the corner where the arrow meets the reference line means field weld. A field weld is made on site during installation rather than in the shop. The flag tells the welder this joint is completed away from the fabrication shop."
+  },
+  {
+    "id": 101,
+    "domain": "layout_and_fabrication",
+    "front": "What does a circle at the bend of a welding symbol mean?",
+    "back": "A small circle where the arrow joins the reference line means weld all around. The welder must run the weld completely around the whole joint, such as all the way around a pipe-to-plate connection. It saves listing the same weld on every side."
+  },
+  {
+    "id": 102,
+    "domain": "layout_and_fabrication",
+    "front": "What does a square groove symbol represent?",
+    "back": "A square groove symbol, shown as two short parallel lines, means the joint is welded with the plate edges left square. It suits thin material that does not need beveling. A small root opening may be set between the plates for full fusion."
+  },
+  {
+    "id": 103,
+    "domain": "layout_and_fabrication",
+    "front": "What is a single V-groove weld symbol?",
+    "back": "A V-groove symbol looks like a letter V on the reference line. It means both joining edges are beveled to form a V-shaped gap that is filled with weld metal. It is used on thicker plate to get full penetration."
+  },
+  {
+    "id": 104,
+    "domain": "layout_and_fabrication",
+    "front": "What does a bevel groove weld symbol show?",
+    "back": "A bevel groove symbol has only one edge angled, so it looks like half of a V. The perpendicular line of the symbol points to the member that gets beveled. It is common where only one plate can be machined or cut at an angle."
+  },
+  {
+    "id": 105,
+    "domain": "layout_and_fabrication",
+    "front": "What is the root opening in a groove weld?",
+    "back": "The root opening is the gap left between the two plate edges at the bottom of the joint before welding. It helps the weld reach full penetration to the back of the joint. The size is shown inside the groove symbol on the welding symbol."
+  },
+  {
+    "id": 106,
+    "domain": "layout_and_fabrication",
+    "front": "What does a contour symbol of a flat line above a weld symbol mean?",
+    "back": "A straight flat line added to a weld symbol means the finished weld face should be flush or flat. It tells the welder the weld must be ground or made level with the plate surface. Other contour symbols are convex (curved out) and concave (curved in)."
+  },
+  {
+    "id": 107,
+    "domain": "layout_and_fabrication",
+    "front": "What is a combination square used for in layout?",
+    "back": "A combination square is a ruler with a sliding head that can set 90 degree and 45 degree angles. Welders use it to mark square lines, check edges, measure depth, and find center. It is one of the most useful hand layout tools."
+  },
+  {
+    "id": 108,
+    "domain": "layout_and_fabrication",
+    "front": "What is a scriber used for?",
+    "back": "A scriber is a sharp pointed tool that scratches a thin, permanent line into metal. The line stays visible through heat and handling better than pencil or marker. Welders use it to mark cut lines and layout points accurately."
+  },
+  {
+    "id": 109,
+    "domain": "layout_and_fabrication",
+    "front": "What is a center punch used for before drilling?",
+    "back": "A center punch makes a small dimple in the metal where a hole will be drilled. The dimple gives the drill bit a starting point so it does not wander across the surface. This keeps holes located exactly where the layout marks them."
+  },
+  {
+    "id": 110,
+    "domain": "layout_and_fabrication",
+    "front": "What is a soapstone and why do welders use it?",
+    "back": "Soapstone is a soft marking stone that leaves light-colored lines on metal. Welders like it because the marks survive the heat of cutting and welding without burning off. It is cheap, easy to sharpen, and safe on hot steel."
+  },
+  {
+    "id": 111,
+    "domain": "layout_and_fabrication",
+    "front": "What does the 3-4-5 method check?",
+    "back": "The 3-4-5 method checks whether a corner is a true right angle, meaning 90 degrees. You measure 3 units along one side and 4 units along the other side. If the diagonal between those points is exactly 5 units, the corner is square."
+  },
+  {
+    "id": 112,
+    "domain": "layout_and_fabrication",
+    "front": "Why does the 3-4-5 method work?",
+    "back": "The 3-4-5 method works because of the Pythagorean rule for right triangles, where 3 squared plus 4 squared equals 5 squared. Any triangle with sides in that ratio must have a 90 degree corner. You can scale it up, such as 6-8-10 or 9-12-15, for larger work."
+  },
+  {
+    "id": 113,
+    "domain": "layout_and_fabrication",
+    "front": "How can you square a large frame without a big square?",
+    "back": "Measure both diagonals of the frame corner to corner. When the two diagonal measurements are exactly equal, the frame is square. This works because equal diagonals mean the corners are true right angles."
+  },
+  {
+    "id": 114,
+    "domain": "layout_and_fabrication",
+    "front": "What is the Pythagorean theorem used for in fabrication?",
+    "back": "The Pythagorean theorem says the square of the long side of a right triangle equals the squares of the other two sides added together. Welders use it to find unknown lengths, set true 90 degree corners, and lay out braces and diagonals. The basic form is a squared plus b squared equals c squared."
+  },
+  {
+    "id": 115,
+    "domain": "layout_and_fabrication",
+    "front": "What is the circumference of a circle and how is it found?",
+    "back": "The circumference is the distance all the way around a circle. You find it by multiplying the diameter by pi, which is about 3.1416. Welders use this to figure out plate length when rolling a cylinder or pipe."
+  },
+  {
+    "id": 116,
+    "domain": "layout_and_fabrication",
+    "front": "How do you find the area of a rectangle?",
+    "back": "Multiply the length by the width to get the area of a rectangle. The answer is in square units, such as square millimetres or square inches. Welders use area to estimate paint coverage, material weight, and plate sizes."
+  },
+  {
+    "id": 117,
+    "domain": "layout_and_fabrication",
+    "front": "What is the difference between diameter and radius?",
+    "back": "The diameter is the full distance across a circle through its center. The radius is the distance from the center to the edge, which is exactly half the diameter. Drawings may give either one, so know how to switch between them."
+  },
+  {
+    "id": 118,
+    "domain": "layout_and_fabrication",
+    "front": "What is mild steel and where is it used?",
+    "back": "Mild steel is low-carbon steel that is strong, cheap, and easy to weld. It is the most common metal in general fabrication for frames, brackets, and structures. Its low carbon content means it rarely cracks and needs little special treatment."
+  },
+  {
+    "id": 119,
+    "domain": "layout_and_fabrication",
+    "front": "How does carbon content affect steel weldability?",
+    "back": "As carbon content rises, steel gets harder and stronger but harder to weld. High-carbon steel is more likely to crack and may need preheating and slow cooling. Low-carbon steels weld easily, which is why mild steel is so widely used."
+  },
+  {
+    "id": 120,
+    "domain": "layout_and_fabrication",
+    "front": "What is stainless steel and why is it chosen?",
+    "back": "Stainless steel contains chromium that forms a thin layer resisting rust and staining. It is picked for food, medical, marine, and chemical work where corrosion would ruin plain steel. It needs care when welding to avoid losing its corrosion resistance."
+  },
+  {
+    "id": 121,
+    "domain": "layout_and_fabrication",
+    "front": "What makes aluminum different to weld than steel?",
+    "back": "Aluminum conducts heat much faster and melts at a far lower temperature than steel. It also forms a tough oxide layer that must be cleaned off before welding. These traits make aluminum trickier and usually call for higher heat input and clean technique."
+  },
+  {
+    "id": 122,
+    "domain": "layout_and_fabrication",
+    "front": "What is a mill certificate (mill test report)?",
+    "back": "A mill certificate is a document from the steel maker that lists the chemical makeup and strength of a batch of metal. It proves the material meets the specification called for on the job. Code work often requires keeping these records for traceability."
+  },
+  {
+    "id": 123,
+    "domain": "layout_and_fabrication",
+    "front": "What is a butt joint?",
+    "back": "A butt joint is where two pieces meet edge to edge in the same plane, like two boards laid end to end. The edges may be left square or beveled depending on thickness. It is common in pipe and plate joining."
+  },
+  {
+    "id": 124,
+    "domain": "layout_and_fabrication",
+    "front": "What is a lap joint?",
+    "back": "A lap joint is where one piece overlaps on top of another. The weld is usually a fillet run along the edge of the overlapping plate. Lap joints are simple to fit up and forgiving of small fit errors."
+  },
+  {
+    "id": 125,
+    "domain": "layout_and_fabrication",
+    "front": "What is a T-joint?",
+    "back": "A T-joint is formed when one plate meets the face of another at about 90 degrees, making a T shape. It is normally welded with fillet welds on one or both sides. It is one of the most common joints in structural work."
+  },
+  {
+    "id": 126,
+    "domain": "layout_and_fabrication",
+    "front": "What is a corner joint?",
+    "back": "A corner joint is where two pieces meet at their edges to form an outside corner, like the corner of a box. It can be welded on the outside, inside, or both. Open and closed corner setups change how much weld metal is needed."
+  },
+  {
+    "id": 127,
+    "domain": "layout_and_fabrication",
+    "front": "What is an edge joint?",
+    "back": "An edge joint is where the edges of two parallel or nearly parallel plates are joined. It is used on thinner material that does not carry heavy load. Welding is done along the meeting edges."
+  },
+  {
+    "id": 128,
+    "domain": "layout_and_fabrication",
+    "front": "Why are plate edges beveled before welding thick material?",
+    "back": "Beveling angles the edges so the weld can reach deep into the joint for full penetration. Without a bevel, thick plate would only fuse near the surface and stay weak underneath. The bevel creates room for filler metal to fill the joint fully."
+  },
+  {
+    "id": 129,
+    "domain": "layout_and_fabrication",
+    "front": "What is joint fit-up?",
+    "back": "Fit-up is how well the parts are aligned and spaced before welding starts. Good fit-up means correct root gaps, aligned edges, and no big gaps. Poor fit-up leads to weak welds, burn-through, and extra rework."
+  },
+  {
+    "id": 130,
+    "domain": "layout_and_fabrication",
+    "front": "What is the root face (land) of a groove weld?",
+    "back": "The root face, also called the land, is the flat unbeveled part of the plate edge at the bottom of a groove. It gives the joint some thickness to support the root pass. Too large a land can prevent full penetration, while none at all risks burn-through."
+  },
+  {
+    "id": 131,
+    "domain": "layout_and_fabrication",
+    "front": "What is a tack weld?",
+    "back": "A tack weld is a small, short weld used to hold parts in position before final welding. It keeps the fit-up from shifting while you complete the full weld. Tacks should be strong enough to hold but small enough not to interfere with the finished weld."
+  },
+  {
+    "id": 132,
+    "domain": "layout_and_fabrication",
+    "front": "What is a jig?",
+    "back": "A jig is a tool that holds a workpiece and guides where work is done, such as where to drill or cut. It makes repeated parts come out the same every time. In welding, jigs hold parts in the correct position for assembly."
+  },
+  {
+    "id": 133,
+    "domain": "layout_and_fabrication",
+    "front": "What is a fixture?",
+    "back": "A fixture is a device that clamps and holds a workpiece firmly in place during welding but does not guide a tool. It keeps parts located and resists movement from heat. Good fixtures speed up production and improve repeatability."
+  },
+  {
+    "id": 134,
+    "domain": "layout_and_fabrication",
+    "front": "How do jigs and fixtures help control distortion?",
+    "back": "By clamping parts rigidly, jigs and fixtures stop the metal from pulling and bending as it heats and cools. This holds the part close to its final shape. They also let you build many identical parts with the same accuracy."
+  },
+  {
+    "id": 135,
+    "domain": "layout_and_fabrication",
+    "front": "What is a positioner used for?",
+    "back": "A positioner is a powered table or chuck that turns and tilts a workpiece. It lets the welder keep the joint in the easiest welding position, usually flat. This improves weld quality and speed while reducing fatigue."
+  },
+  {
+    "id": 136,
+    "domain": "layout_and_fabrication",
+    "front": "What is pattern development in layout?",
+    "back": "Pattern development is drawing the flat shape that, when cut and bent, forms a three-dimensional part. It unfolds a shape like a cone or box into a flat layout. Welders use it to lay out ductwork, transitions, and tanks."
+  },
+  {
+    "id": 137,
+    "domain": "layout_and_fabrication",
+    "front": "What is the parallel line method of pattern development?",
+    "back": "The parallel line method develops patterns for shapes with parallel sides, such as cylinders and square ducts. You project lines straight across to unfold the surface into a flat pattern. It works well for prisms and pipes."
+  },
+  {
+    "id": 138,
+    "domain": "layout_and_fabrication",
+    "front": "What is the radial line method of pattern development?",
+    "back": "The radial line method develops patterns for shapes that taper to a point, such as cones and pyramids. Lines radiate out from the apex to map the surface. It is used to lay out conical hoppers and tapered transitions."
+  },
+  {
+    "id": 139,
+    "domain": "layout_and_fabrication",
+    "front": "What is triangulation in pattern development?",
+    "back": "Triangulation develops patterns for irregular shapes that are not simple prisms or cones, such as offset transitions. The surface is divided into many small triangles whose true sizes are found and laid out flat. It is the most flexible but most time-consuming method."
+  },
+  {
+    "id": 140,
+    "domain": "layout_and_fabrication",
+    "front": "What is bend allowance?",
+    "back": "Bend allowance is the amount of extra metal length needed to make a bend because the metal stretches and compresses when bent. You must add it into the flat length so the finished part comes out the right size. Ignoring it makes bent parts too short."
+  },
+  {
+    "id": 141,
+    "domain": "layout_and_fabrication",
+    "front": "What is the neutral axis in a bend?",
+    "back": "The neutral axis is the line inside the bent metal that neither stretches nor compresses. Material outside it stretches and material inside it squeezes. The neutral axis sits roughly partway through the thickness and is used to calculate bend allowance."
+  },
+  {
+    "id": 142,
+    "domain": "layout_and_fabrication",
+    "front": "How does inside bend radius affect bend allowance?",
+    "back": "A larger inside bend radius means the metal bends more gently and needs more length to wrap around. A tight radius needs less added length but risks cracking. The bend radius is a key value in any bend allowance calculation."
+  },
+  {
+    "id": 143,
+    "domain": "layout_and_fabrication",
+    "front": "What is kerf in cutting?",
+    "back": "Kerf is the width of material removed by a cutting process, such as the slot left by a saw blade or cutting torch. You must allow for kerf so finished parts are not undersized. The wider the cutting tool, the more kerf you lose."
+  },
+  {
+    "id": 144,
+    "domain": "layout_and_fabrication",
+    "front": "Why must you account for kerf when laying out cuts?",
+    "back": "Each cut removes a strip of metal equal to the kerf width. If you ignore it, every part ends up slightly too small and stacked errors add up. Marking and cutting on the correct side of the line keeps parts to size."
+  },
+  {
+    "id": 145,
+    "domain": "layout_and_fabrication",
+    "front": "What is welding distortion?",
+    "back": "Distortion is the unwanted bending, twisting, or shrinking of a part caused by uneven heating and cooling during welding. Hot weld metal expands then pulls the metal as it cools and shrinks. Controlling distortion keeps parts straight and within tolerance."
+  },
+  {
+    "id": 146,
+    "domain": "layout_and_fabrication",
+    "front": "What is angular distortion?",
+    "back": "Angular distortion is when plates rotate around the weld so the joint angle changes, often pulling a flat plate into a slight V. It happens because the weld shrinks more at the top than the bottom of the joint. Balanced welding and back-stepping help reduce it."
+  },
+  {
+    "id": 147,
+    "domain": "layout_and_fabrication",
+    "front": "What is the back-step welding technique?",
+    "back": "Back-step welding means depositing short weld segments in the opposite direction to the overall travel. Each short weld is laid backward toward the previous one. This spreads the heat out and helps reduce shrinkage and distortion."
+  },
+  {
+    "id": 148,
+    "domain": "layout_and_fabrication",
+    "front": "How does pre-setting (pre-cambering) control distortion?",
+    "back": "Pre-setting means positioning the parts slightly off in the opposite direction before welding. As the weld shrinks and pulls the part, it moves into the correct final shape. It uses the expected distortion to your advantage."
+  },
+  {
+    "id": 149,
+    "domain": "layout_and_fabrication",
+    "front": "How does balanced welding reduce distortion?",
+    "back": "Balanced welding places welds evenly on opposite sides of the neutral axis so the shrinking forces cancel out. For a T-joint, you might weld one side then the other in turns. This keeps the part from pulling to one side."
+  },
+  {
+    "id": 150,
+    "domain": "layout_and_fabrication",
+    "front": "How does limiting heat input help control distortion?",
+    "back": "Less heat means less expansion and shrinking, so the part moves less. Using the smallest weld that meets the design, fewer passes, and intermittent welds all cut heat input. Letting the part cool between passes also helps."
+  },
+  {
+    "id": 151,
+    "domain": "layout_and_fabrication",
+    "front": "What is a tolerance on a drawing?",
+    "back": "A tolerance is the allowed amount a dimension can be larger or smaller and still be acceptable. For example, 100 plus or minus 1 means anywhere from 99 to 101 is fine. Tolerances let parts fit together without needing perfect, impossible accuracy."
+  },
+  {
+    "id": 152,
+    "domain": "layout_and_fabrication",
+    "front": "What is the difference between bilateral and unilateral tolerance?",
+    "back": "A bilateral tolerance allows variation in both directions, such as plus or minus 0.5. A unilateral tolerance allows variation in only one direction, such as plus 0.5 and minus 0. Both define how much a size can drift from the target."
+  },
+  {
+    "id": 153,
+    "domain": "layout_and_fabrication",
+    "front": "Why are tighter tolerances more expensive?",
+    "back": "Tighter tolerances need more careful cutting, fitting, and checking, which takes more time and skill. They may also need better tools and cause more rejected parts. Designers only call for tight tolerances where the fit truly requires it."
+  },
+  {
+    "id": 154,
+    "domain": "layout_and_fabrication",
+    "front": "What is a fabrication sequence?",
+    "back": "A fabrication sequence is the planned order in which parts are cut, fitted, and welded. A good sequence keeps the work accessible, controls distortion, and avoids trapping yourself out of a needed weld. Planning the order before starting saves rework."
+  },
+  {
+    "id": 155,
+    "domain": "layout_and_fabrication",
+    "front": "Why weld from the center outward on a large assembly?",
+    "back": "Welding from the center toward the edges lets shrinkage move freely toward the open ends. Starting at the edges can lock in stress and pull the middle out of shape. This sequence keeps a big assembly flatter and truer."
+  },
+  {
+    "id": 156,
+    "domain": "layout_and_fabrication",
+    "front": "What is the difference between a datum and a dimension?",
+    "back": "A datum is a reference point, line, or surface that other measurements are taken from. A dimension is the actual size or distance measured from that reference. Building from one datum keeps errors from adding up across the part."
+  },
+  {
+    "id": 157,
+    "domain": "layout_and_fabrication",
+    "front": "What is baseline (datum) dimensioning?",
+    "back": "Baseline dimensioning measures every feature from one common starting edge or line. Because all measurements share the same origin, small errors do not stack up. This gives more accurate layout than measuring point to point."
+  },
+  {
+    "id": 158,
+    "domain": "layout_and_fabrication",
+    "front": "Why is chain dimensioning risky for accuracy?",
+    "back": "Chain dimensioning measures each feature from the previous one, so any small error carries into the next measurement. These errors add together and grow across the part. For accuracy, baseline dimensioning from one datum is usually better."
+  },
+  {
+    "id": 159,
+    "domain": "layout_and_fabrication",
+    "front": "What does CSA W59 cover?",
+    "back": "CSA W59 is the Canadian standard for welded steel construction. It sets rules for joint design, weld sizes, workmanship, and acceptable weld quality. Welders and shops follow it so structural welds meet a recognized safety standard."
+  },
+  {
+    "id": 160,
+    "domain": "layout_and_fabrication",
+    "front": "What is a Welding Procedure Specification (WPS)?",
+    "back": "A WPS is a written instruction sheet that tells the welder exactly how to make a particular weld. It lists the process, filler metal, joint design, position, current, and other settings. Following the WPS gives a weld that meets the required code."
+  },
+  {
+    "id": 161,
+    "domain": "layout_and_fabrication",
+    "front": "What is throat size on a fillet weld?",
+    "back": "The throat is the shortest distance from the root of the fillet to its face, measured through the middle of the weld. It is the part that carries the load. Throat size matters more than leg size for the strength of the joint."
+  },
+  {
+    "id": 162,
+    "domain": "layout_and_fabrication",
+    "front": "What is weld reinforcement?",
+    "back": "Reinforcement is weld metal that sits above the surface of the plates on a groove weld. A small amount adds strength, but too much creates stress points and may need grinding. Drawings or codes may limit how high it can be."
+  },
+  {
+    "id": 163,
+    "domain": "layout_and_fabrication",
+    "front": "What does the tail of a welding symbol contain?",
+    "back": "The tail is the forked end of the reference line. It holds extra information such as the welding process, specification, or a note number. If no extra information is needed, the tail is left off the symbol."
+  },
+  {
+    "id": 164,
+    "domain": "layout_and_fabrication",
+    "front": "What does a plug weld symbol look like and mean?",
+    "back": "A plug weld is shown by a rectangle on the reference line. It means a hole in the top plate is filled with weld to join it to the plate below. The hole size, spacing, and fill depth are given with the symbol."
+  },
+  {
+    "id": 165,
+    "domain": "layout_and_fabrication",
+    "front": "What does a U-groove weld symbol indicate?",
+    "back": "A U-groove symbol looks like the letter U on the reference line. The edges are prepared in a U shape, which uses less filler than a V on thick plate. It is chosen where saving weld metal on heavy sections matters."
+  },
+  {
+    "id": 166,
+    "domain": "layout_and_fabrication",
+    "front": "What does a J-groove weld symbol indicate?",
+    "back": "A J-groove symbol shows one edge shaped like the letter J while the other stays square. It is the single-sided version of a U-groove. It is used when only one member can be machined and you want to save filler metal."
+  },
+  {
+    "id": 167,
+    "domain": "layout_and_fabrication",
+    "front": "What is the included angle of a groove?",
+    "back": "The included angle is the total angle of the opening between the two prepared edges of a groove. For a V-groove it is the full V angle, often around 60 degrees. Enough angle lets the electrode reach the root for full fusion."
+  },
+  {
+    "id": 168,
+    "domain": "layout_and_fabrication",
+    "front": "What is a backing bar or backing strip?",
+    "back": "A backing bar is a piece of metal placed behind a joint to support the molten weld pool on the first pass. It prevents the weld from falling through on open root joints. It may be left in place or removed depending on the design."
+  },
+  {
+    "id": 169,
+    "domain": "layout_and_fabrication",
+    "front": "What does the melt-through symbol indicate?",
+    "back": "The melt-through symbol is a filled half-circle placed on the opposite side of the reference line from a weld symbol. It calls for full penetration that shows as a slight bead on the back of a single-sided joint. It confirms the root has been fully fused."
+  },
+  {
+    "id": 170,
+    "domain": "layout_and_fabrication",
+    "front": "What is a layout fish (steel) tape used for?",
+    "back": "A steel tape measure is used to mark and check long distances on plate and structural steel. Welders use it to lay out hole centers, cut lines, and overall part lengths. Reading the same edge each time keeps measurements consistent."
+  },
+  {
+    "id": 171,
+    "domain": "layout_and_fabrication",
+    "front": "Why hook or butt the tape correctly when measuring?",
+    "back": "The hook end of a tape can read from outside or inside an edge, so using it wrong adds or loses the hook thickness. For accuracy, choose one method and stick with it across the whole part. Inconsistent hooking causes small repeated errors."
+  },
+  {
+    "id": 172,
+    "domain": "layout_and_fabrication",
+    "front": "What is a framing square and how is it used in layout?",
+    "back": "A framing square is a large L-shaped steel square with a long blade and shorter tongue. Welders use it to mark and check 90 degree corners on large plate and frames. The marked scales also help lay out angles and rafters."
+  },
+  {
+    "id": 173,
+    "domain": "layout_and_fabrication",
+    "front": "What is a protractor or angle finder used for?",
+    "back": "A protractor measures and sets angles other than 90 degrees. Welders use it to lay out bevels, miters, and bracing angles. A bevel protractor can read fine angle increments for accurate joint preparation."
+  },
+  {
+    "id": 174,
+    "domain": "layout_and_fabrication",
+    "front": "What is a dividers (compass) tool used for in layout?",
+    "back": "Dividers are a pair of sharp legs set to a fixed spread. Welders use them to scribe circles and arcs and to step off equal spacings along a line. They are handy for marking bolt-hole circles and curved patterns."
+  },
+  {
+    "id": 175,
+    "domain": "layout_and_fabrication",
+    "front": "What is a wraparound (wrap-a-round) used for?",
+    "back": "A wraparound is a flexible strip wrapped around a pipe to mark a straight line square to the pipe axis. It gives a clean cut line all the way around the pipe. It is a basic tool for accurate pipe cutting and fitting."
+  },
+  {
+    "id": 176,
+    "domain": "layout_and_fabrication",
+    "front": "How do you find the miter cut angle for a square box corner?",
+    "back": "For two pieces meeting at a 90 degree corner, each piece is cut at 45 degrees. The two 45 degree cuts add up to the full 90 degree corner. Dividing the corner angle by two gives the miter on each piece."
+  },
+  {
+    "id": 177,
+    "domain": "layout_and_fabrication",
+    "front": "What is springback in bending?",
+    "back": "Springback is the slight return of metal toward its original shape after a bending force is released. Because of it, you must over-bend a little to reach the target angle. The harder and springier the metal, the more springback you allow for."
+  },
+  {
+    "id": 178,
+    "domain": "layout_and_fabrication",
+    "front": "What is grain direction in sheet metal and why does it matter?",
+    "back": "Grain direction is the way the metal fibers run from the rolling process. Bending across the grain is stronger and less likely to crack than bending along it. Where possible, lay out bends to run across the grain."
+  },
+  {
+    "id": 179,
+    "domain": "layout_and_fabrication",
+    "front": "What is the difference between nominal size and actual size?",
+    "back": "Nominal size is the rounded name given to a material, such as a 2 inch pipe. Actual size is the true measured dimension, which often differs from the nominal name. Always check actual sizes for fit-up rather than trusting the nominal label."
+  },
+  {
+    "id": 180,
+    "domain": "layout_and_fabrication",
+    "front": "What is a bill of materials (BOM)?",
+    "back": "A bill of materials is a list on or with a drawing of every part, its quantity, size, and material. It tells the shop exactly what to gather and cut. Working from the BOM keeps you from missing or mis-ordering parts."
+  },
+  {
+    "id": 181,
+    "domain": "layout_and_fabrication",
+    "front": "What is a leader line on a drawing?",
+    "back": "A leader line is a thin line with an arrow that points from a note or dimension to a specific feature. It connects text such as a hole size to the exact spot it describes. It keeps notes clear without cluttering the part outline."
+  },
+  {
+    "id": 182,
+    "domain": "layout_and_fabrication",
+    "front": "What is an extension line used for in dimensioning?",
+    "back": "Extension lines are thin lines that extend out from the edges of a feature. They show the exact points a dimension is measured between. A small gap is left between the part and the start of the extension line."
+  },
+  {
+    "id": 183,
+    "domain": "layout_and_fabrication",
+    "front": "What is the purpose of a phantom line on a drawing?",
+    "back": "A phantom line, drawn with long dashes and pairs of short dashes, shows alternate positions of moving parts or nearby items not being made. It can also show repeated detail. It tells you something is shown for reference only."
+  },
+  {
+    "id": 184,
+    "domain": "layout_and_fabrication",
+    "front": "What is a break line and when is it used?",
+    "back": "A break line shows that part of an object has been left out to save drawing space, usually on long uniform parts. A jagged or wavy line marks where the part is cut short. The given dimension still states the true full length."
+  },
+  {
+    "id": 185,
+    "domain": "layout_and_fabrication",
+    "front": "What is the difference between a weld face and a weld toe?",
+    "back": "The weld face is the outer visible surface of the finished weld. The weld toe is the line where the weld face meets the base metal. Smooth toes reduce stress points and lower the chance of cracking."
+  },
+  {
+    "id": 186,
+    "domain": "layout_and_fabrication",
+    "front": "What is undercut and why does it matter for fit and quality?",
+    "back": "Undercut is a groove melted into the base metal beside the weld that is not filled with weld metal. It thins the base material and creates a weak stress point. Codes like CSA W59 limit how much undercut is allowed."
+  },
+  {
+    "id": 187,
+    "domain": "layout_and_fabrication",
+    "front": "What does a stitch (skip) welding pattern achieve?",
+    "back": "Stitch welding lays short welds with gaps, similar to intermittent welds, often skipping along the joint in a planned order. It spreads heat to control distortion and saves filler where full strength is not needed. The drawing or symbol shows the length and spacing."
+  },
+  {
+    "id": 188,
+    "domain": "layout_and_fabrication",
+    "front": "Why is fit-up checked before tacking, not after?",
+    "back": "Once parts are tacked, they are hard to move without grinding off the tacks. Checking gaps, alignment, and squareness before tacking lets you make easy adjustments. Locking in a bad fit-up leads to weak welds and rework."
+  },
+  {
+    "id": 189,
+    "domain": "layout_and_fabrication",
+    "front": "What is the root pass in a multi-pass weld?",
+    "back": "The root pass is the first weld bead placed at the bottom of the joint. It fuses the two members together at the root and sets the foundation for the rest of the weld. A sound root pass is critical for full-penetration joints."
+  },
+  {
+    "id": 190,
+    "domain": "layout_and_fabrication",
+    "front": "What is a cap (cover) pass in a multi-pass weld?",
+    "back": "The cap pass is the final weld layer placed on top to complete and seal the joint. It gives the finished weld its profile and reinforcement. A clean cap pass with smooth toes improves both strength and appearance."
+  },
+  {
+    "id": 191,
+    "domain": "cutting_and_gouging",
+    "front": "What is oxy-fuel gas cutting (OFC)?",
+    "back": "Oxy-fuel cutting heats steel to its ignition temperature with a fuel gas flame, then blasts a stream of pure oxygen through it. The oxygen burns (oxidizes) the hot steel and blows away the molten oxide to form the cut. It only works on metals that oxidize easily, such as carbon steel and low-alloy steel."
+  },
+  {
+    "id": 192,
+    "domain": "cutting_and_gouging",
+    "front": "Why does oxy-fuel cutting not work on aluminum or stainless steel?",
+    "back": "These metals form a tough oxide layer that melts at a much higher temperature than the base metal itself. The oxygen jet cannot burn through and clear that oxide, so the cut will not proceed cleanly. For aluminum and stainless, welders use plasma arc cutting instead."
+  },
+  {
+    "id": 193,
+    "domain": "cutting_and_gouging",
+    "front": "Name the two jobs the oxygen does in oxy-fuel cutting.",
+    "back": "First, a small amount of oxygen mixes with the fuel gas to create the preheat flame that warms the steel. Second, a separate high-pressure oxygen stream, released by the cutting lever, does the actual cutting by oxidizing the hot metal. The cutting oxygen must be high purity to make a clean cut."
+  },
+  {
+    "id": 194,
+    "domain": "cutting_and_gouging",
+    "front": "What is the kindling or ignition temperature for cutting steel?",
+    "back": "Steel must reach roughly 870 to 900 degrees Celsius, a bright cherry red color, before the cutting oxygen can burn it. Below this temperature the oxygen jet will not start the cut. The preheat flame brings the steel up to this point before the cutting lever is pressed."
+  },
+  {
+    "id": 195,
+    "domain": "cutting_and_gouging",
+    "front": "What is a neutral flame?",
+    "back": "A neutral flame has equal amounts of oxygen and fuel gas, so all the fuel is fully burned. It shows a clearly defined rounded inner cone with no feather and is the most common flame for cutting and welding steel. It does not add carbon or extra oxygen to the metal."
+  },
+  {
+    "id": 196,
+    "domain": "cutting_and_gouging",
+    "front": "What is a carburizing (reducing) flame?",
+    "back": "A carburizing flame has more fuel gas than oxygen, leaving an extra feathery white plume around the inner cone. It adds carbon to the metal and burns cooler than neutral. It is used for some hardfacing and brazing, but not for normal steel cutting."
+  },
+  {
+    "id": 197,
+    "domain": "cutting_and_gouging",
+    "front": "What is an oxidizing flame?",
+    "back": "An oxidizing flame has more oxygen than fuel gas. The inner cone is shorter, sharper, and the flame makes a louder hissing sound. It burns hotter but adds oxygen to the metal, which can cause brittle welds, so it is generally avoided except for some brass work."
+  },
+  {
+    "id": 198,
+    "domain": "cutting_and_gouging",
+    "front": "How do you set a neutral flame from a carburizing flame?",
+    "back": "Light the torch with extra fuel to make a carburizing flame, which shows a feather around the inner cone. Slowly add oxygen until the feather disappears and the inner cone becomes sharp and rounded. That point is the neutral flame."
+  },
+  {
+    "id": 199,
+    "domain": "cutting_and_gouging",
+    "front": "What fuel gas is acetylene and what is its main advantage?",
+    "back": "Acetylene is a fuel gas that produces the hottest flame, about 3100 degrees Celsius, and heats steel very fast for quick starts. It is the most common fuel for portable cutting. Its drawbacks are higher cost and that it cannot be stored or used at high pressure."
+  },
+  {
+    "id": 200,
+    "domain": "cutting_and_gouging",
+    "front": "Why must acetylene never be used above 15 psi?",
+    "back": "Acetylene becomes chemically unstable and can explode on its own when pressurized above about 15 psi (103 kPa), even without a flame or spark. This is why acetylene cylinders are filled with a porous filler soaked in acetone. Always keep working pressure at or below 15 psi."
+  },
+  {
+    "id": 201,
+    "domain": "cutting_and_gouging",
+    "front": "What is propane used for in cutting and how does it compare to acetylene?",
+    "back": "Propane is a cheaper fuel gas often used for heavy cutting, heating, and production work. Its flame is cooler than acetylene and it preheats steel more slowly, so it needs different tips. It is safer to store and can be used at higher pressures."
+  },
+  {
+    "id": 202,
+    "domain": "cutting_and_gouging",
+    "front": "What is propylene and where does it fit between acetylene and propane?",
+    "back": "Propylene is a fuel gas that burns hotter than propane but cooler than acetylene. It gives faster preheating than propane and is safer to store than acetylene. Many shops use it as a balanced, economical choice for cutting and heating."
+  },
+  {
+    "id": 203,
+    "domain": "cutting_and_gouging",
+    "front": "Why do propane and natural gas need different cutting tips than acetylene?",
+    "back": "These fuels need more oxygen and produce a cooler, slower flame, so their tips have more preheat holes and a recessed mixing design. Using an acetylene tip with propane gives poor preheat and possible flashback. Always match the tip to the fuel gas being used."
+  },
+  {
+    "id": 204,
+    "domain": "cutting_and_gouging",
+    "front": "What is a backfire?",
+    "back": "A backfire is a single loud pop where the flame goes out or briefly burns back into the tip. It is usually caused by touching the work with the tip, low gas pressure, or a dirty or overheated tip. Relight the torch after clearing the cause."
+  },
+  {
+    "id": 205,
+    "domain": "cutting_and_gouging",
+    "front": "What is a flashback and why is it dangerous?",
+    "back": "A flashback is when the flame burns backward through the torch and into the hoses or even the cylinder. It makes a shrill whistling or hissing sound and can cause an explosion. Shut off the torch immediately, oxygen first, and let it cool."
+  },
+  {
+    "id": 206,
+    "domain": "cutting_and_gouging",
+    "front": "What is a flashback arrestor?",
+    "back": "A flashback arrestor is a safety device that stops a flame from traveling back through the hoses toward the regulators and cylinders. It contains a check valve and a flame-stopping element. They are fitted on the torch end, the regulator end, or both."
+  },
+  {
+    "id": 207,
+    "domain": "cutting_and_gouging",
+    "front": "What is a check valve in oxy-fuel equipment?",
+    "back": "A check valve allows gas to flow only one direction and prevents reverse flow of oxygen into the fuel line or fuel into the oxygen line. This stops the two gases from mixing inside the hoses. Check valves do not stop a flame, so flashback arrestors are still needed."
+  },
+  {
+    "id": 208,
+    "domain": "cutting_and_gouging",
+    "front": "Describe the correct startup sequence for an oxy-acetylene cutting torch.",
+    "back": "Open the acetylene cylinder valve slowly about a half turn, set the fuel regulator, then fully open the oxygen cylinder valve and set the oxygen regulator. At the torch, crack the fuel valve and light it, then add oxygen for a neutral preheat. Finally adjust the cutting oxygen using the cutting lever."
+  },
+  {
+    "id": 209,
+    "domain": "cutting_and_gouging",
+    "front": "Describe the correct shutdown sequence for an oxy-acetylene torch.",
+    "back": "At the torch, close the fuel valve first to stop the flame cleanly, then close the oxygen valve. Close both cylinder valves, then open the torch valves to bleed the lines. Finally back out both regulator adjusting screws so they are released."
+  },
+  {
+    "id": 210,
+    "domain": "cutting_and_gouging",
+    "front": "Why is acetylene shut off first when extinguishing the flame?",
+    "back": "Shutting off the fuel first removes the burnable gas so the flame goes out cleanly without a popping backfire and without leaving soot. If you shut oxygen off first, the rich fuel flame can backfire and produce soot. Always close fuel first at the torch."
+  },
+  {
+    "id": 211,
+    "domain": "cutting_and_gouging",
+    "front": "Why open the oxygen cylinder valve fully but the acetylene only part way?",
+    "back": "Oxygen cylinder valves have a double seal that only seals properly when fully open, so opening all the way prevents leaks around the stem. Acetylene valves are opened only about a half turn so they can be closed quickly in an emergency. This is a standard safety practice."
+  },
+  {
+    "id": 212,
+    "domain": "cutting_and_gouging",
+    "front": "What is kerf?",
+    "back": "Kerf is the width of the material removed by the cut, the gap left where the metal was burned or melted away. A wider kerf wastes more material and oxygen. Kerf width depends on tip size, oxygen pressure, and travel speed."
+  },
+  {
+    "id": 213,
+    "domain": "cutting_and_gouging",
+    "front": "What are drag lines?",
+    "back": "Drag lines are the curved ridges left on the cut face by the oxygen stream. On a good cut they are nearly vertical and evenly spaced. Drag lines that curve far backward at the bottom show the travel speed was too fast."
+  },
+  {
+    "id": 214,
+    "domain": "cutting_and_gouging",
+    "front": "What is drag in oxy-fuel cutting?",
+    "back": "Drag is how far behind the entry point the cutting stream exits at the bottom of the plate, measured along the cut face. Some drag is normal at higher speeds, but too much drag means the speed is too fast and the cut may not finish through. Zero drag gives the squarest cut."
+  },
+  {
+    "id": 215,
+    "domain": "cutting_and_gouging",
+    "front": "What is dross (slag) in cutting?",
+    "back": "Dross is the leftover molten metal and oxide that clings to the bottom edge of the cut. A clean cut leaves little or no dross that knocks off easily. Heavy, sticky dross usually means wrong speed, wrong oxygen pressure, or a dirty tip."
+  },
+  {
+    "id": 216,
+    "domain": "cutting_and_gouging",
+    "front": "What causes a cut to have hard, sticky dross at the bottom?",
+    "back": "Sticky dross is often caused by traveling too slow, oxygen pressure too low, or the tip held too high above the work. The molten oxide does not get blown clear and sticks to the bottom edge. Adjusting speed, raising oxygen pressure, or cleaning the tip usually fixes it."
+  },
+  {
+    "id": 217,
+    "domain": "cutting_and_gouging",
+    "front": "What does a top edge melted and rounded over tell you?",
+    "back": "A rounded, melted top edge means too much preheat, travel too slow, or the tip held too close to the plate. The excess heat melts the top before the cut starts. Increase speed, reduce preheat, or raise the tip slightly."
+  },
+  {
+    "id": 218,
+    "domain": "cutting_and_gouging",
+    "front": "What does it mean if the cut does not go all the way through the plate?",
+    "back": "An incomplete cut usually means travel speed too fast, oxygen pressure too low, tip too small for the thickness, or a dirty tip. The oxygen stream loses energy before reaching the bottom. Slow down, raise oxygen pressure, or use a larger tip."
+  },
+  {
+    "id": 219,
+    "domain": "cutting_and_gouging",
+    "front": "How do you start a cut on the edge of a plate?",
+    "back": "Hold the preheat cones just above the top edge until that spot glows bright cherry red. Then press the cutting oxygen lever fully and begin moving as soon as the cut breaks through the edge. Keep the tip square to the work for a vertical cut."
+  },
+  {
+    "id": 220,
+    "domain": "cutting_and_gouging",
+    "front": "How do you pierce a hole in the middle of a plate?",
+    "back": "Preheat a spot to bright red, then slowly tilt and lift the tip slightly while gently opening the cutting oxygen so blowback does not hit the tip. Once the metal blows through, lower the tip square and proceed with the cut. Piercing protects the tip from molten splatter."
+  },
+  {
+    "id": 221,
+    "domain": "cutting_and_gouging",
+    "front": "How far should the cutting tip be held above the work?",
+    "back": "The inner preheat cones should sit about 3 to 5 mm (around 1/8 inch) above the plate surface. Too close melts the top edge and clogs the tip, too far cools the cut and wastes preheat. The correct distance gives a clean square cut."
+  },
+  {
+    "id": 222,
+    "domain": "cutting_and_gouging",
+    "front": "How do you choose the right cutting tip size?",
+    "back": "Tip size is matched to the metal thickness using the torch maker's chart. Thicker plate needs a larger tip orifice, higher oxygen pressure, and slower travel. Using a tip too small for the thickness causes incomplete cuts and excess dross."
+  },
+  {
+    "id": 223,
+    "domain": "cutting_and_gouging",
+    "front": "Why must cutting tips be kept clean?",
+    "back": "Spatter or carbon buildup in the tip orifices distorts the oxygen stream and preheat flames, causing a ragged cut and backfires. Clean the holes gently with the correct size tip cleaner, not a drill or wire. A clean tip makes a straight, narrow oxygen jet."
+  },
+  {
+    "id": 224,
+    "domain": "cutting_and_gouging",
+    "front": "What is a tip cleaner and how is it used?",
+    "back": "A tip cleaner is a set of small round files that match the tip hole sizes. Insert the correct size straight in and out a few times without enlarging or reaming the hole sideways. This clears carbon and spatter while keeping the orifice round and the right diameter."
+  },
+  {
+    "id": 225,
+    "domain": "cutting_and_gouging",
+    "front": "What is a bevel cut and why is it done?",
+    "back": "A bevel cut puts an angled edge on the plate instead of a square edge. Bevels are cut to prepare joints for welding so the filler metal can reach the full thickness. The torch is tilted to the required angle, commonly 22.5, 30, or 45 degrees."
+  },
+  {
+    "id": 226,
+    "domain": "cutting_and_gouging",
+    "front": "What is a root face (land) in edge preparation?",
+    "back": "The root face, or land, is the flat square portion left at the bottom of a beveled edge. It controls how much metal is at the joint root and helps prevent burn-through during welding. A bevel and root face together form a typical groove weld prep."
+  },
+  {
+    "id": 227,
+    "domain": "cutting_and_gouging",
+    "front": "Why is edge preparation important before welding thick plate?",
+    "back": "On thick plate a single weld pass cannot reach the full depth, so a beveled groove lets weld metal fill the whole joint. Proper bevels give complete fusion and strong joints. Poor prep leads to lack of fusion and weak welds."
+  },
+  {
+    "id": 228,
+    "domain": "cutting_and_gouging",
+    "front": "What is a track burner or motorized cutting carriage?",
+    "back": "A track burner is a small motor-driven machine that carries the cutting torch along a straight or curved track at a steady speed. It produces smooth, consistent cuts that are hard to match by hand. It is used for long straight cuts and accurate bevels."
+  },
+  {
+    "id": 229,
+    "domain": "cutting_and_gouging",
+    "front": "What is plasma arc cutting (PAC)?",
+    "back": "Plasma cutting uses an electric arc to ionize a gas into plasma, a superheated jet that melts the metal and blows it away. It cuts any electrically conductive metal, including stainless steel and aluminum. It works fast and gives a narrow kerf on thin to medium plate."
+  },
+  {
+    "id": 230,
+    "domain": "cutting_and_gouging",
+    "front": "What is the main advantage of plasma cutting over oxy-fuel?",
+    "back": "Plasma cuts metals that oxy-fuel cannot, such as aluminum, stainless steel, copper, and other non-ferrous metals. It also cuts thin steel much faster with less heat distortion and a narrower kerf. Oxy-fuel still wins on very thick carbon steel and uses no electricity."
+  },
+  {
+    "id": 231,
+    "domain": "cutting_and_gouging",
+    "front": "What gases are commonly used for plasma cutting?",
+    "back": "Compressed air is the most common and economical plasma gas for general work. Nitrogen, oxygen, and argon-hydrogen mixes are used for better cut quality on specific metals like stainless and aluminum. The gas choice affects cut speed, edge quality, and consumable life."
+  },
+  {
+    "id": 232,
+    "domain": "cutting_and_gouging",
+    "front": "What are the main consumable parts in a plasma torch?",
+    "back": "The key consumables are the electrode, the nozzle (tip), the swirl ring, and the shield cap. The electrode emits the arc and the nozzle focuses the plasma jet into a tight stream. They wear out and must be replaced to keep cut quality good."
+  },
+  {
+    "id": 233,
+    "domain": "cutting_and_gouging",
+    "front": "What is a pilot arc in plasma cutting?",
+    "back": "A pilot arc is a small low-power arc that forms between the electrode and nozzle to ignite the main cutting arc. It lets the torch start cutting without touching the work. Once the pilot arc reaches the metal, the full cutting arc transfers to the workpiece."
+  },
+  {
+    "id": 234,
+    "domain": "cutting_and_gouging",
+    "front": "What happens when plasma electrodes and nozzles wear out?",
+    "back": "Worn consumables make the arc wider and weaker, causing a sloppy, angled cut with more dross and slower speed. The nozzle hole becomes oversized or out of round. Replacing the electrode and nozzle restores a tight, clean, square cut."
+  },
+  {
+    "id": 235,
+    "domain": "cutting_and_gouging",
+    "front": "Why must plasma cutting air be clean and dry?",
+    "back": "Moisture and oil in the compressed air damage the electrode and nozzle quickly and cause a rough, dirty cut. Most plasma systems use a moisture and oil filter. Clean dry air gives longer consumable life and a smoother cut edge."
+  },
+  {
+    "id": 236,
+    "domain": "cutting_and_gouging",
+    "front": "What is bevel angle on a plasma cut edge?",
+    "back": "Plasma cuts often have a slight bevel because the plasma jet swirls and is wider at the top. The squarer side faces the direction of travel set by the swirl direction. Correct travel speed, height, and fresh consumables keep the bevel small."
+  },
+  {
+    "id": 237,
+    "domain": "cutting_and_gouging",
+    "front": "What is air carbon arc cutting and gouging (CAC-A)?",
+    "back": "CAC-A uses a carbon electrode to create an arc that melts the metal, while a high-pressure jet of compressed air blows the molten metal away. It removes metal fast and is mainly used for gouging grooves and removing welds or defects. It works on most metals."
+  },
+  {
+    "id": 238,
+    "domain": "cutting_and_gouging",
+    "front": "What is gouging?",
+    "back": "Gouging is removing a groove of metal rather than cutting all the way through the plate. It is used to remove defective welds, prepare a back side for a second weld, or cut out cracks. CAC-A and plasma are the common gouging methods."
+  },
+  {
+    "id": 239,
+    "domain": "cutting_and_gouging",
+    "front": "What type of electrode is used in CAC-A?",
+    "back": "CAC-A uses a carbon-graphite electrode, usually copper-coated to carry more current and last longer. The electrode does not melt into the work; it makes the arc that melts the metal. Common diameters range from about 4 mm up to 16 mm depending on the job."
+  },
+  {
+    "id": 240,
+    "domain": "cutting_and_gouging",
+    "front": "How is the compressed air positioned in CAC-A gouging?",
+    "back": "The air jet comes out of the torch behind the electrode, aimed along the groove in the direction of travel. The air must hit just behind the arc to blow the molten metal out cleanly. The air is turned on before striking the arc."
+  },
+  {
+    "id": 241,
+    "domain": "cutting_and_gouging",
+    "front": "What air pressure is typical for CAC-A gouging?",
+    "back": "CAC-A usually uses compressed air at about 550 to 700 kPa (80 to 100 psi) with a high volume of flow. The strong air blast is needed to clear the molten metal from the groove. Too little air leaves slag in the groove."
+  },
+  {
+    "id": 242,
+    "domain": "cutting_and_gouging",
+    "front": "What polarity is used for CAC-A with copper-coated carbon electrodes?",
+    "back": "CAC-A normally uses direct current electrode positive (DCEP), also called reverse polarity. This gives a stable arc and good metal removal with copper-coated carbons. Using the wrong polarity causes an erratic arc and poor gouging."
+  },
+  {
+    "id": 243,
+    "domain": "cutting_and_gouging",
+    "front": "Why is CAC-A very loud and what protection is needed?",
+    "back": "The high-pressure air blast plus the electric arc make CAC-A one of the loudest welding shop processes, often over 100 decibels. Workers must wear hearing protection such as earplugs or earmuffs. A full face shield and leathers are also needed for the heavy spatter."
+  },
+  {
+    "id": 244,
+    "domain": "cutting_and_gouging",
+    "front": "What is carbon pickup in CAC-A and how is it avoided?",
+    "back": "Carbon pickup happens when bits of carbon from the electrode get left in the metal, which can cause hard, brittle spots that crack when welded over. It is avoided by keeping the arc moving, using correct current, and grinding the groove clean before welding. Never weld over a slag-filled CAC-A groove."
+  },
+  {
+    "id": 245,
+    "domain": "cutting_and_gouging",
+    "front": "What is the correct electrode angle for CAC-A gouging?",
+    "back": "The carbon electrode is usually held at a low angle, about 35 to 45 degrees to the work, with the air blast behind it. The depth of the groove is controlled by the angle and travel speed. A steeper angle and slower speed make a deeper groove."
+  },
+  {
+    "id": 246,
+    "domain": "cutting_and_gouging",
+    "front": "How does plasma gouging differ from plasma cutting?",
+    "back": "Plasma gouging uses a special wider nozzle and the torch is held at a shallow angle to scoop a groove instead of cutting through. It removes metal more cleanly and quietly than CAC-A and leaves no carbon. It is good for removing welds and surface defects."
+  },
+  {
+    "id": 247,
+    "domain": "cutting_and_gouging",
+    "front": "What is a cold cutting or mechanical cutting method?",
+    "back": "Mechanical cutting removes metal with a blade or abrasive instead of heat, so it adds no heat-affected zone. Examples are band saws, cold saws, abrasive chop saws, shears, and water jet. These methods give clean edges with little distortion."
+  },
+  {
+    "id": 248,
+    "domain": "cutting_and_gouging",
+    "front": "What is an abrasive chop saw used for?",
+    "back": "An abrasive chop saw uses a spinning abrasive wheel to cut metal bar, pipe, and angle. It cuts fast but creates sparks, heat at the cut edge, and burrs. The cut edge is rougher than a cold saw and often needs grinding before welding."
+  },
+  {
+    "id": 249,
+    "domain": "cutting_and_gouging",
+    "front": "What is a band saw used for in a fabrication shop?",
+    "back": "A band saw uses a continuous toothed blade loop to make clean, accurate cuts in solid bar, pipe, and structural shapes. It runs cooler than abrasive saws and leaves little burr. Horizontal band saws are common for cutting stock to length."
+  },
+  {
+    "id": 250,
+    "domain": "cutting_and_gouging",
+    "front": "What is a cold saw?",
+    "back": "A cold saw uses a circular toothed blade turning slowly with coolant to make precise, square, burr-free cuts. It runs cool so the cut edge stays close to the original metal properties. It gives the cleanest mechanical cut but is slower and pricier."
+  },
+  {
+    "id": 251,
+    "domain": "cutting_and_gouging",
+    "front": "What is a water jet cutting machine?",
+    "back": "A water jet uses a very high-pressure stream of water, often mixed with abrasive, to cut metal with no heat. Because there is no heat-affected zone, it does not warp or harden the edge. It cuts complex shapes in almost any material very accurately."
+  },
+  {
+    "id": 252,
+    "domain": "cutting_and_gouging",
+    "front": "What are shears used for in metal cutting?",
+    "back": "Shears cut sheet and plate by forcing a blade through the metal, slicing it like scissors. They make fast straight cuts with no heat or sparks but can leave a slight edge distortion. Power shears handle heavier plate, hand shears handle thin sheet."
+  },
+  {
+    "id": 253,
+    "domain": "cutting_and_gouging",
+    "front": "Why does the heat-affected zone matter when choosing a cutting method?",
+    "back": "Thermal cutting heats the edge and can harden or weaken a narrow band of metal called the heat-affected zone. On critical or thin parts this can cause cracking or distortion. Mechanical cutting avoids this, so it is chosen when the edge condition matters most."
+  },
+  {
+    "id": 254,
+    "domain": "cutting_and_gouging",
+    "front": "What personal protective equipment is needed for oxy-fuel cutting?",
+    "back": "Wear tinted cutting goggles or a shade 3 to 5 lens, flame-resistant clothing, leather gloves, and leather boots. Keep sleeves down and pant cuffs over boots to keep sparks out. A leather apron and spats protect against falling slag."
+  },
+  {
+    "id": 255,
+    "domain": "cutting_and_gouging",
+    "front": "What eye protection shade is used for plasma cutting?",
+    "back": "Plasma cutting needs a darker shade than oxy-fuel because of the bright arc, typically shade 8 to 12 depending on the amperage. Higher current cutting needs a darker lens. Always cover all skin too, because plasma gives off ultraviolet light."
+  },
+  {
+    "id": 256,
+    "domain": "cutting_and_gouging",
+    "front": "Why is ventilation important during cutting and gouging?",
+    "back": "Cutting and gouging release metal fumes and gases that are harmful to breathe, especially from coated, galvanized, or painted metal. Good ventilation or local exhaust removes these fumes from the breathing zone. A respirator may be needed when ventilation is not enough."
+  },
+  {
+    "id": 257,
+    "domain": "cutting_and_gouging",
+    "front": "What special danger comes from cutting galvanized steel?",
+    "back": "Galvanized steel has a zinc coating that gives off zinc oxide fumes when heated, causing metal fume fever with flu-like symptoms. Always cut galvanized in well-ventilated areas with exhaust or a respirator. Grinding the zinc off the cut line first reduces the fumes."
+  },
+  {
+    "id": 258,
+    "domain": "cutting_and_gouging",
+    "front": "Why must containers that held flammables never be cut without preparation?",
+    "back": "Drums or tanks that held fuel or chemicals can hold explosive vapors even when they look empty. Heat from cutting can ignite these vapors and cause a deadly explosion. The container must be cleaned, purged, or filled with water or inert gas before any cutting."
+  },
+  {
+    "id": 259,
+    "domain": "cutting_and_gouging",
+    "front": "What is a fire watch and when is it required?",
+    "back": "A fire watch is a person assigned to watch for fires during and after cutting in areas with fire risk. They stay alert for at least 30 to 60 minutes after work stops because slag can smolder. A fire extinguisher must be kept within reach."
+  },
+  {
+    "id": 260,
+    "domain": "cutting_and_gouging",
+    "front": "How should compressed gas cylinders be stored and secured?",
+    "back": "Cylinders must stand upright and be chained or strapped so they cannot tip over. Store oxygen and fuel cylinders separated by a barrier or distance, away from heat. Keep valve caps on cylinders that are not in use."
+  },
+  {
+    "id": 261,
+    "domain": "cutting_and_gouging",
+    "front": "Why must oil and grease be kept away from oxygen equipment?",
+    "back": "Oxygen makes oil and grease ignite violently, even without a spark, because pure oxygen makes combustion far more intense. Never lubricate oxygen fittings or handle them with greasy hands or gloves. This rule prevents sudden fires and explosions."
+  },
+  {
+    "id": 262,
+    "domain": "cutting_and_gouging",
+    "front": "How do you test oxy-fuel connections for leaks?",
+    "back": "Use an approved leak-detection solution or soapy water brushed onto the fittings while the system is pressurized. Bubbles show a leak that must be fixed before lighting up. Never use a flame or oil-based products to check for leaks."
+  },
+  {
+    "id": 263,
+    "domain": "cutting_and_gouging",
+    "front": "What does a two-stage regulator do?",
+    "back": "A regulator reduces the high cylinder pressure to a safe, steady working pressure for the torch. A two-stage regulator drops the pressure in two steps, giving a more constant outlet pressure as the cylinder empties. The high-pressure gauge shows cylinder contents and the low-pressure gauge shows working pressure."
+  },
+  {
+    "id": 264,
+    "domain": "cutting_and_gouging",
+    "front": "Why should you crack a cylinder valve before attaching the regulator?",
+    "back": "Cracking the valve means opening it briefly to blow out any dust or dirt sitting in the valve outlet. This stops debris from blowing into and damaging the regulator. Stand to the side, not in front of the valve, when cracking it."
+  },
+  {
+    "id": 265,
+    "domain": "cutting_and_gouging",
+    "front": "Why do oxygen and fuel hoses have different colors and fittings?",
+    "back": "Oxygen hose is green with right-hand threads, and fuel hose is red with left-hand threads marked by a notched nut. The different threads make it impossible to cross-connect the gases. This prevents dangerous mixing of oxygen and fuel."
+  },
+  {
+    "id": 266,
+    "domain": "cutting_and_gouging",
+    "front": "What happens if the cutting oxygen stream is not square to the plate?",
+    "back": "If the tip is tilted, the cut face will be angled instead of straight, giving an unintended bevel. For a square cut the tip must be held perpendicular to the plate in both directions. A guide or roller helps keep the angle correct."
+  },
+  {
+    "id": 267,
+    "domain": "cutting_and_gouging",
+    "front": "What causes gouges or notches along an oxy-fuel cut face?",
+    "back": "Sudden notches usually come from a clogged tip, momentary loss of preheat, or an uneven travel speed. Stopping and restarting badly also leaves a notch. Keeping a steady hand and a clean tip produces a smooth, even cut face."
+  },
+  {
+    "id": 268,
+    "domain": "cutting_and_gouging",
+    "front": "How does travel speed affect oxy-fuel cut quality?",
+    "back": "The correct speed gives near-vertical drag lines, a clean bottom edge, and a steady stream of sparks going straight down and slightly back. Too slow rounds the top edge and melts the cut. Too fast leaves trailing drag lines, an unfinished cut, and dross."
+  },
+  {
+    "id": 269,
+    "domain": "cutting_and_gouging",
+    "front": "What spark pattern shows a good oxy-fuel cut is happening?",
+    "back": "A good cut throws a clean shower of sparks straight down through and below the plate. If sparks blow back up at you, the cut is not penetrating and the speed is too fast. Watching the sparks under the plate helps judge progress."
+  },
+  {
+    "id": 270,
+    "domain": "cutting_and_gouging",
+    "front": "What is a striker (spark lighter) and why use it instead of a match?",
+    "back": "A striker is a flint-and-cup tool that makes a spark to light the torch safely from the side. Using a striker keeps your hand away from the gas and avoids burns. Never light a torch with a match, lighter, or another flame nearby."
+  },
+  {
+    "id": 271,
+    "domain": "cutting_and_gouging",
+    "front": "What is sustained backfire and how do you respond?",
+    "back": "A sustained backfire is when the flame keeps burning inside the torch with a hissing or whistling sound, which is really a flashback. Immediately close the oxygen valve, then the fuel valve, and let the torch cool. Find and fix the cause, such as low pressure or a clogged tip, before relighting."
+  },
+  {
+    "id": 272,
+    "domain": "cutting_and_gouging",
+    "front": "Why preheat thicker steel longer before pressing the cutting oxygen?",
+    "back": "Thicker steel takes more time and heat to reach the cherry-red ignition temperature all the way to the surface. Pressing the oxygen too soon on cold metal will not start the cut and wastes oxygen. Wait for a bright red glow before opening the cutting oxygen."
+  },
+  {
+    "id": 273,
+    "domain": "cutting_and_gouging",
+    "front": "What does a wavy or wandering cut line indicate?",
+    "back": "A wavy cut comes from an unsteady hand, no guide, or inconsistent travel speed. Using a straightedge, roller guide, or motorized carriage keeps the line straight. Bracing your hands and moving at a smooth pace also improves straightness."
+  },
+  {
+    "id": 274,
+    "domain": "cutting_and_gouging",
+    "front": "Why should you clamp or support the workpiece before cutting?",
+    "back": "Loose metal can shift during the cut, ruining the line or pinching the kerf closed. Clamping holds the part steady so the cut stays accurate. Leave room for the cut-off piece to drop free so it does not bind the torch."
+  },
+  {
+    "id": 275,
+    "domain": "cutting_and_gouging",
+    "front": "What is the danger of cutting over a closed or pinched kerf?",
+    "back": "If the cut-off piece pinches the kerf shut, hot slag can blow back at the operator and the cut can bind. Plan the cut so the falling piece opens the kerf rather than closing it. Support both sides so neither pinches the cut."
+  },
+  {
+    "id": 276,
+    "domain": "cutting_and_gouging",
+    "front": "How do you cut pipe with an oxy-fuel torch evenly?",
+    "back": "Mark a square line around the pipe and roll the pipe or move around it while keeping the tip pointed at the center. Keeping the tip aimed at the pipe center keeps the cut square to the axis. A wrap-around marker or pipe guide helps make the line straight."
+  },
+  {
+    "id": 277,
+    "domain": "cutting_and_gouging",
+    "front": "Why grind a CAC-A or thermal-cut surface before welding?",
+    "back": "Thermal cutting and gouging leave oxide, slag, and sometimes carbon on the surface that can cause weld defects like porosity or lack of fusion. Grinding to clean, bright metal removes these contaminants. A clean prepped groove gives a sound weld."
+  },
+  {
+    "id": 278,
+    "domain": "cutting_and_gouging",
+    "front": "What does the high-pressure gauge on a regulator tell you?",
+    "back": "The high-pressure gauge shows how much gas pressure is left in the cylinder, which roughly indicates how full it is. The low-pressure gauge shows the working pressure going to the torch. Checking the high-pressure gauge helps you know when to change cylinders."
+  },
+  {
+    "id": 279,
+    "domain": "cutting_and_gouging",
+    "front": "What is the right way to handle a cutting tip that keeps backfiring?",
+    "back": "Shut off the torch and let the tip cool, then clean the orifices with the correct tip cleaners and check for damage. Confirm gas pressures are correct and the tip is tight in the torch. A nicked or melted tip should be replaced rather than reused."
+  },
+  {
+    "id": 280,
+    "domain": "cutting_and_gouging",
+    "front": "How do you produce an accurate bevel for a welding joint?",
+    "back": "Set the torch or machine to the required bevel angle and use a guide or motorized carriage for a steady line. Maintain correct tip height, speed, and oxygen pressure so the angled face stays smooth. Then check the angle and root face against the joint specification before welding."
+  },
+  {
+    "id": 281,
+    "domain": "welding_processes",
+    "front": "What does SMAW stand for?",
+    "back": "SMAW means Shielded Metal Arc Welding. It uses a flux-coated stick electrode that melts to form the weld while the coating burns to create a shielding gas and slag. Tradespeople often call it stick welding."
+  },
+  {
+    "id": 282,
+    "domain": "welding_processes",
+    "front": "Read the AWS number E6010. What does each part mean?",
+    "back": "The E means electrode. The first two digits, 60, mean 60,000 psi minimum tensile strength. The third digit, 1, means it welds in all positions. The last digit, 0, describes the coating type and current. So E6010 is a 60 ksi all-position electrode."
+  },
+  {
+    "id": 283,
+    "domain": "welding_processes",
+    "front": "What does the third digit in an SMAW electrode number tell you?",
+    "back": "The third digit gives the welding positions the electrode can run. A 1 means all positions including flat, horizontal, vertical, and overhead. A 2 means flat and horizontal only. A 4 means flat, horizontal, vertical-down, and overhead."
+  },
+  {
+    "id": 284,
+    "domain": "welding_processes",
+    "front": "What does the last digit in an SMAW electrode number describe?",
+    "back": "The last digit, read together with the third digit, tells you the coating type and the current it runs on. For example, the 8 in E7018 means a low-hydrogen iron powder coating that runs on AC or DCEP. It is a code for coating and polarity, not strength."
+  },
+  {
+    "id": 285,
+    "domain": "welding_processes",
+    "front": "What kind of electrode is E6010 and what is it used for?",
+    "back": "E6010 is a fast-freeze, deep-penetrating electrode with a cellulose sodium coating. It runs only on DCEP (electrode positive) and is popular for root passes on pipe and for dirty or rusty steel. It gives a snappy, digging arc."
+  },
+  {
+    "id": 286,
+    "domain": "welding_processes",
+    "front": "How is E6011 different from E6010?",
+    "back": "E6011 has a cellulose potassium coating that lets it run on AC as well as DCEP, while E6010 needs DC only. Both are fast-freeze, deep-penetrating rods used for roots and dirty steel. E6011 is handy for cheap AC buzz-box machines."
+  },
+  {
+    "id": 287,
+    "domain": "welding_processes",
+    "front": "What is E6013 best suited for?",
+    "back": "E6013 is a mild, easy-starting electrode with a rutile coating that runs on AC, DCEN, or DCEP. It gives shallow penetration, a smooth bead, and easy slag removal. It is good for thin sheet metal and general light fabrication."
+  },
+  {
+    "id": 288,
+    "domain": "welding_processes",
+    "front": "What makes E7018 special?",
+    "back": "E7018 is a low-hydrogen electrode with iron powder in the coating. It gives 70 ksi strength, smooth welds, and tough, crack-resistant deposits. It is the go-to rod for structural steel, code work, and high-strength joints, running on AC or DCEP."
+  },
+  {
+    "id": 289,
+    "domain": "welding_processes",
+    "front": "What is E7024 used for?",
+    "back": "E7024 is a high-deposition, iron-powder electrode often called a drag rod. It lays down metal fast for flat and horizontal fillet welds. The heavy coating lets you drag the rod along the joint, but it only runs in flat and horizontal positions."
+  },
+  {
+    "id": 290,
+    "domain": "welding_processes",
+    "front": "Why is E7018 called a low-hydrogen electrode?",
+    "back": "Low-hydrogen means the coating is made and stored to keep moisture very low. Less moisture means less hydrogen in the weld, which lowers the risk of hydrogen cracking. This is critical for high-strength and thick steel welds."
+  },
+  {
+    "id": 291,
+    "domain": "welding_processes",
+    "front": "How should low-hydrogen electrodes like E7018 be stored?",
+    "back": "Keep them dry. Once a sealed can is opened, store the rods in a heated holding oven, usually around 120 C, until you use them. Moisture in the coating leads to hydrogen cracking and porosity in the weld."
+  },
+  {
+    "id": 292,
+    "domain": "welding_processes",
+    "front": "What happens if E7018 gets damp?",
+    "back": "Damp E7018 carries extra moisture that turns into hydrogen during welding. This causes porosity, a rough arc, and the risk of hydrogen-induced cracking in the weld and heat-affected zone. Damp rods must be rebaked, not just air dried, or thrown out."
+  },
+  {
+    "id": 293,
+    "domain": "welding_processes",
+    "front": "How long can opened low-hydrogen rods stay out of the oven?",
+    "back": "Exposure time limits depend on the electrode and the code, but a common rule is a few hours of atmospheric exposure for standard low-hydrogen rods. After the allowed time they must go back to the oven or be rebaked. Always follow the WPS and manufacturer limits."
+  },
+  {
+    "id": 294,
+    "domain": "welding_processes",
+    "front": "What does DCEP mean and what is its other name?",
+    "back": "DCEP means Direct Current Electrode Positive. It was once called reverse polarity. The electrode is the positive terminal, so more heat goes to the electrode and you get deeper penetration on the workpiece."
+  },
+  {
+    "id": 295,
+    "domain": "welding_processes",
+    "front": "What does DCEN mean and what is its other name?",
+    "back": "DCEN means Direct Current Electrode Negative, once called straight polarity. The electrode is negative, so more heat goes to the workpiece side of the arc in TIG but less penetration in stick. In SMAW it gives faster deposition and shallower penetration."
+  },
+  {
+    "id": 296,
+    "domain": "welding_processes",
+    "front": "In SMAW, which polarity gives the deepest penetration?",
+    "back": "DCEP, electrode positive, gives the deepest penetration in stick welding because more arc heat concentrates at the work. Rods like E6010 use DCEP for digging root passes. DCEN gives shallower penetration and higher deposition."
+  },
+  {
+    "id": 297,
+    "domain": "welding_processes",
+    "front": "What is the benefit of AC for SMAW?",
+    "back": "AC current switches direction many times per second. It helps reduce arc blow, which is the wandering of the arc caused by magnetic fields. AC also lets you use cheaper transformer machines, and rods like E6011, E6013, and E7018 can run on it."
+  },
+  {
+    "id": 298,
+    "domain": "welding_processes",
+    "front": "What is arc blow in SMAW?",
+    "back": "Arc blow is when the arc wanders or pushes to one side because of magnetic fields in the workpiece. It is worse with DC and near joint ends or clamps. You can reduce it by using AC, repositioning the ground clamp, or shortening the arc."
+  },
+  {
+    "id": 299,
+    "domain": "welding_processes",
+    "front": "What is the correct arc length for most SMAW electrodes?",
+    "back": "A good rule is to keep the arc length about equal to the diameter of the electrode core wire. Too long an arc causes spatter, undercut, and porosity. Too short an arc can make the rod stick and gives a narrow, ropey bead."
+  },
+  {
+    "id": 300,
+    "domain": "welding_processes",
+    "front": "What does a too-long arc cause in stick welding?",
+    "back": "A long arc lets air into the weld and weakens the shielding. This leads to spatter, undercut along the edges, porosity, and a wide, flat bead. The arc may also crackle and sound harsh instead of steady."
+  },
+  {
+    "id": 301,
+    "domain": "welding_processes",
+    "front": "What is the travel angle in SMAW?",
+    "back": "The travel angle is the tilt of the electrode along the direction of travel. A drag or backhand angle of about 5 to 15 degrees is common for stick, pointing the rod back toward the finished weld. It controls penetration and slag flow."
+  },
+  {
+    "id": 302,
+    "domain": "welding_processes",
+    "front": "What is the work angle in SMAW?",
+    "back": "The work angle is the tilt of the electrode side to side relative to the joint members. For a flat fillet weld the work angle is about 45 degrees so the rod splits the corner evenly. Correct work angle gives even leg lengths."
+  },
+  {
+    "id": 303,
+    "domain": "welding_processes",
+    "front": "Why does too high an amperage cause problems in SMAW?",
+    "back": "Too much current overheats the rod and the puddle. It causes undercut, excessive spatter, a wide bead, and the electrode coating may glow red and break down early. It can also burn through thin metal."
+  },
+  {
+    "id": 304,
+    "domain": "welding_processes",
+    "front": "What happens with too low amperage in SMAW?",
+    "back": "Too little current gives a cold weld with poor penetration and fusion. The rod may stick to the work, the arc is hard to hold, and the bead piles up high and narrow. Slag can get trapped because the puddle does not flow."
+  },
+  {
+    "id": 305,
+    "domain": "welding_processes",
+    "front": "How do you pick the right amperage for a stick electrode?",
+    "back": "Start with the manufacturer range printed on the box, which is set by electrode diameter and type. A rough guide is about 30 to 40 amps per millimetre of electrode diameter for many rods. Then fine tune based on position, joint, and how the puddle behaves."
+  },
+  {
+    "id": 306,
+    "domain": "welding_processes",
+    "front": "What is the proper way to strike an arc in SMAW?",
+    "back": "Use a scratch motion like striking a match, or a tap motion straight down and up. Once the arc starts, quickly settle into the correct short arc length. Striking outside the weld joint can leave arc strikes that damage the base metal."
+  },
+  {
+    "id": 307,
+    "domain": "welding_processes",
+    "front": "Why are arc strikes outside the weld joint a problem?",
+    "back": "An arc strike on the base metal leaves a small hardened, brittle spot and can crack later. Many codes do not allow stray arc strikes on the finished part. Always strike inside the joint or on a scrap starter plate."
+  },
+  {
+    "id": 308,
+    "domain": "welding_processes",
+    "front": "How do you restart an SMAW electrode mid-weld?",
+    "back": "Restart ahead of the crater on cold weld metal, then move back into the crater to fill it before continuing forward. This avoids leaving a low spot or trapped slag at the restart. Chip and brush the crater first so slag does not get buried."
+  },
+  {
+    "id": 309,
+    "domain": "welding_processes",
+    "front": "What is a keyhole in SMAW pipe root welding?",
+    "back": "A keyhole is the small hole that forms at the leading edge of the puddle during an open root pass. It shows the root is fully penetrating both edges. The welder controls travel speed to keep the keyhole a steady, small size."
+  },
+  {
+    "id": 310,
+    "domain": "welding_processes",
+    "front": "What does whipping mean in stick welding?",
+    "back": "Whipping is a forward-and-back motion of the electrode used mostly with E6010 and E6011 on roots and vertical-up welds. It lets the puddle cool slightly so it does not sag, then adds metal. It helps control a fast-freeze rod."
+  },
+  {
+    "id": 311,
+    "domain": "welding_processes",
+    "front": "Why is slag important in SMAW?",
+    "back": "Slag is the glassy layer that forms from the burnt coating on top of the cooling weld. It protects the hot metal from air and slows cooling. After the weld cools, you chip and brush off the slag before the next pass or inspection."
+  },
+  {
+    "id": 312,
+    "domain": "welding_processes",
+    "front": "What causes slag inclusions in a stick weld?",
+    "back": "Slag inclusions happen when slag gets trapped inside the weld instead of floating to the top. Causes include too low amperage, a poor electrode angle, not cleaning between passes, and a puddle that freezes too fast. They weaken the joint."
+  },
+  {
+    "id": 313,
+    "domain": "welding_processes",
+    "front": "What position numbers describe welding positions?",
+    "back": "Position 1 is flat, 2 is horizontal, 3 is vertical, and 4 is overhead. A letter follows for the joint type, where G means groove and F means fillet. So 3G is a vertical groove weld and 2F is a horizontal fillet weld."
+  },
+  {
+    "id": 314,
+    "domain": "welding_processes",
+    "front": "Which welding position is usually the easiest?",
+    "back": "The flat position, called 1G or 1F, is easiest because gravity helps the puddle stay in place. The welder works on top of the joint with the puddle pulling down into it. Overhead is the hardest because gravity pulls the puddle away."
+  },
+  {
+    "id": 315,
+    "domain": "welding_processes",
+    "front": "What is the difference between vertical-up and vertical-down welding?",
+    "back": "Vertical-up means starting at the bottom and welding upward, which gives deeper penetration and is used for thicker steel. Vertical-down means starting at the top and going down, which is faster and good for thin metal. The choice depends on thickness and the WPS."
+  },
+  {
+    "id": 316,
+    "domain": "welding_processes",
+    "front": "Why is vertical-down often used on thin sheet with E6013?",
+    "back": "Vertical-down is fast and gives shallow penetration, so it helps avoid burning through thin sheet metal. E6013 starts easily and freezes quickly, which suits the downward bead. For thick or structural steel, vertical-up is usually required instead."
+  },
+  {
+    "id": 317,
+    "domain": "welding_processes",
+    "front": "What is undercut and what causes it?",
+    "back": "Undercut is a groove melted into the base metal at the edge of the weld that is not filled. It is caused by too much current, too long an arc, fast travel, or a wrong angle. It creates a stress point that can crack."
+  },
+  {
+    "id": 318,
+    "domain": "welding_processes",
+    "front": "What is porosity in a weld?",
+    "back": "Porosity is gas bubbles trapped in the weld metal that show up as small holes. In SMAW it comes from damp electrodes, dirty base metal, too long an arc, or arc blow. Porosity weakens the joint and can fail inspection."
+  },
+  {
+    "id": 319,
+    "domain": "welding_processes",
+    "front": "What is a weld crater and how do you avoid crater cracks?",
+    "back": "A crater is the dip left when you stop welding and the puddle shrinks. If you stop too fast the crater can crack. Fill the crater by pausing and circling, or back up into it before lifting the electrode."
+  },
+  {
+    "id": 320,
+    "domain": "welding_processes",
+    "front": "How do you choose electrode diameter for a job?",
+    "back": "Match the diameter to the metal thickness, joint, and position. Thinner metal and tight roots use smaller rods like 2.5 mm, while thick flat plate uses larger rods like 5 mm for speed. Smaller diameters are easier to control out of position."
+  },
+  {
+    "id": 321,
+    "domain": "welding_processes",
+    "front": "What is a stringer bead versus a weave bead?",
+    "back": "A stringer bead is a straight, narrow pass with little side-to-side motion. A weave bead moves side to side to make a wider pass and fill larger joints. Some codes limit weave width to control heat input."
+  },
+  {
+    "id": 322,
+    "domain": "welding_processes",
+    "front": "What is the heat-affected zone (HAZ)?",
+    "back": "The HAZ is the base metal next to the weld that did not melt but got hot enough to change its grain structure. It can become harder and more brittle. Controlling heat input and preheat helps keep the HAZ tough."
+  },
+  {
+    "id": 323,
+    "domain": "welding_processes",
+    "front": "Why might you preheat steel before SMAW?",
+    "back": "Preheat warms the base metal before welding to slow cooling, drive off moisture, and lower the risk of hydrogen cracking. It is used on thick sections, high-carbon steels, and cold weather work. The WPS sets the required preheat temperature."
+  },
+  {
+    "id": 324,
+    "domain": "welding_processes",
+    "front": "What does CSA W48 cover?",
+    "back": "CSA W48 is the Canadian standard for filler metals, including SMAW electrodes. It sets the classification, strength, and quality requirements for the rods used on the job. Welders match the electrode to the WPS, which references W48."
+  },
+  {
+    "id": 325,
+    "domain": "welding_processes",
+    "front": "What does CSA W59 cover?",
+    "back": "CSA W59 is the Canadian standard for welded steel construction. It sets rules for weld design, procedures, workmanship, and acceptance limits for things like undercut and porosity. Inspectors use W59 to judge if a weld passes."
+  },
+  {
+    "id": 326,
+    "domain": "welding_processes",
+    "front": "What does GMAW stand for?",
+    "back": "GMAW means Gas Metal Arc Welding. It feeds a solid wire electrode through a gun while a shielding gas protects the weld. It is commonly called MIG welding and is fast and easy to learn."
+  },
+  {
+    "id": 327,
+    "domain": "welding_processes",
+    "front": "How is GMAW different from SMAW?",
+    "back": "GMAW uses a continuous wire fed automatically and a separate shielding gas, so there is no slag and no stopping to change rods. SMAW uses a flux-coated stick that you change often and that leaves slag. GMAW is faster but more sensitive to wind and dirt."
+  },
+  {
+    "id": 328,
+    "domain": "welding_processes",
+    "front": "What are the four main GMAW transfer modes?",
+    "back": "The four modes are short-circuit, globular, spray, and pulsed spray. Each describes how the molten wire crosses the arc into the puddle. The mode depends on voltage, current, wire, and shielding gas."
+  },
+  {
+    "id": 329,
+    "domain": "welding_processes",
+    "front": "Describe short-circuit transfer in GMAW.",
+    "back": "In short-circuit transfer the wire touches the puddle, shorts out, and the tip melts off, repeating many times per second. It runs at low voltage and current, makes little heat, and works in all positions. It suits thin metal but can cause cold lap if set wrong."
+  },
+  {
+    "id": 330,
+    "domain": "welding_processes",
+    "front": "Describe globular transfer in GMAW.",
+    "back": "Globular transfer forms large, irregular drops bigger than the wire diameter that fall across the arc by gravity. It happens at medium voltage, often with CO2 gas. It causes a lot of spatter and is generally not the preferred mode."
+  },
+  {
+    "id": 331,
+    "domain": "welding_processes",
+    "front": "Describe spray transfer in GMAW.",
+    "back": "Spray transfer sends a fine mist of tiny droplets across the arc with no short circuits. It needs high voltage and current and an argon-rich gas. It gives deep penetration and smooth welds but throws too much heat for thin metal or out-of-position work."
+  },
+  {
+    "id": 332,
+    "domain": "welding_processes",
+    "front": "Describe pulsed spray transfer in GMAW.",
+    "back": "Pulsed spray pulses the current between a high peak that releases one droplet and a low background that keeps the arc alive. This gives spray-like quality with less heat, so it can be used out of position and on thinner metal. It needs a special pulse-capable machine."
+  },
+  {
+    "id": 333,
+    "domain": "welding_processes",
+    "front": "What is the transition current in GMAW?",
+    "back": "The transition current is the level where transfer changes from globular to spray. Above it you get smooth spray transfer; below it you get globular drops. The exact value depends on wire diameter and shielding gas."
+  },
+  {
+    "id": 334,
+    "domain": "welding_processes",
+    "front": "What shielding gas is needed for spray transfer?",
+    "back": "Spray transfer needs a gas that is at least about 80 percent argon, such as argon with up to 20 percent CO2 or argon-oxygen blends. Pure CO2 cannot make true spray transfer. The argon helps form the fine mist of droplets."
+  },
+  {
+    "id": 335,
+    "domain": "welding_processes",
+    "front": "What does pure CO2 shielding gas do in GMAW?",
+    "back": "Pure CO2 is cheap and gives deep penetration, but it only supports short-circuit and globular transfer, not spray. It produces more spatter and a rougher bead than argon blends. It is common on thicker steel where cost matters more than looks."
+  },
+  {
+    "id": 336,
+    "domain": "welding_processes",
+    "front": "What is a common all-around shielding gas for steel GMAW?",
+    "back": "A blend of 75 percent argon and 25 percent CO2, often called C25, is very common for carbon steel. It balances good penetration, low spatter, and a nice bead. It works well for short-circuit transfer on general fabrication."
+  },
+  {
+    "id": 337,
+    "domain": "welding_processes",
+    "front": "Why is argon used instead of CO2 for spray transfer?",
+    "back": "Argon is an inert gas that produces a stable, narrow arc and lets the wire melt into fine droplets needed for spray. CO2 is reactive and makes larger, irregular drops. A high-argon blend is required for clean spray transfer."
+  },
+  {
+    "id": 338,
+    "domain": "welding_processes",
+    "front": "What is ER70S-6 wire?",
+    "back": "ER70S-6 is a common solid GMAW wire for carbon steel. ER means electrode or rod, 70 means 70 ksi tensile strength, S means solid wire, and 6 marks the chemistry. It has extra deoxidizers so it welds well over light mill scale and rust."
+  },
+  {
+    "id": 339,
+    "domain": "welding_processes",
+    "front": "Why does ER70S-6 weld well on slightly dirty steel?",
+    "back": "ER70S-6 has higher levels of silicon and manganese, which are deoxidizers that combine with oxygen and surface contamination. This reduces porosity even when the steel has light scale or rust. It is a forgiving, popular wire for general shop work."
+  },
+  {
+    "id": 340,
+    "domain": "welding_processes",
+    "front": "What polarity does GMAW normally use?",
+    "back": "GMAW almost always uses DCEP, direct current electrode positive. This gives a stable arc, good penetration, and steady wire melt-off. DCEN is rarely used because it makes an erratic arc with poor transfer."
+  },
+  {
+    "id": 341,
+    "domain": "welding_processes",
+    "front": "What does WFS mean in GMAW?",
+    "back": "WFS means wire feed speed, how fast the wire comes out of the gun, usually in inches per minute or metres per minute. In GMAW the wire feed speed sets the amperage; faster wire means more current. It is one of the two main settings along with voltage."
+  },
+  {
+    "id": 342,
+    "domain": "welding_processes",
+    "front": "How does wire feed speed relate to amperage in GMAW?",
+    "back": "In GMAW you do not set amps directly; you set wire feed speed and the machine draws the matching current. More wire feed speed means more amperage and more deposited metal. Less wire feed speed means lower amps and a colder weld."
+  },
+  {
+    "id": 343,
+    "domain": "welding_processes",
+    "front": "What does voltage control in GMAW?",
+    "back": "Voltage mainly controls the arc length and the width and flatness of the bead. More voltage gives a wider, flatter bead and a longer arc. Too much voltage causes spatter and porosity, while too little gives a tall, ropey bead that may stub the wire."
+  },
+  {
+    "id": 344,
+    "domain": "welding_processes",
+    "front": "What happens if GMAW voltage is too low?",
+    "back": "Too low voltage makes a short arc and a narrow, humped bead. The wire may stub into the work and push the gun back, and you can hear a loud popping or stuttering. Penetration at the toes is poor and the bead sits high."
+  },
+  {
+    "id": 345,
+    "domain": "welding_processes",
+    "front": "What happens if GMAW voltage is too high?",
+    "back": "Too high voltage makes a long arc with a wide, flat bead and more spatter. It can cause undercut, porosity, and burn-through on thin metal. The arc may sound hissing and unstable instead of a steady crackle."
+  },
+  {
+    "id": 346,
+    "domain": "welding_processes",
+    "front": "What does a good short-circuit GMAW arc sound like?",
+    "back": "A well-tuned short-circuit arc sounds like steady frying bacon or a smooth buzzing crackle. An uneven popping or loud cracking usually means the voltage or wire feed is off. Tradespeople use this sound to fine tune settings."
+  },
+  {
+    "id": 347,
+    "domain": "welding_processes",
+    "front": "What is CTWD in GMAW?",
+    "back": "CTWD means contact tip to work distance, the gap from the end of the contact tip to the workpiece. It is often called stickout. A common range is about 10 to 19 mm depending on the process and transfer mode."
+  },
+  {
+    "id": 348,
+    "domain": "welding_processes",
+    "front": "What happens if CTWD or stickout is too long?",
+    "back": "A long stickout adds resistance, which lowers the welding current and penetration. It also reduces gas coverage, which can cause porosity, and makes the arc unstable. The bead gets cold and ropey."
+  },
+  {
+    "id": 349,
+    "domain": "welding_processes",
+    "front": "What happens if CTWD or stickout is too short?",
+    "back": "A short stickout puts the tip too close to the puddle, so spatter can clog the nozzle and tip. It can also overheat the contact tip and cause burnback where the wire fuses to the tip. The arc may be hard to see and control."
+  },
+  {
+    "id": 350,
+    "domain": "welding_processes",
+    "front": "What is the push technique in GMAW?",
+    "back": "Pushing, or the forehand technique, points the gun forward in the direction of travel. It gives a wider, flatter bead with shallower penetration and good gas coverage ahead of the puddle. It is good for thin metal and a clean appearance."
+  },
+  {
+    "id": 351,
+    "domain": "welding_processes",
+    "front": "What is the pull or drag technique in GMAW?",
+    "back": "Pulling, or the backhand technique, points the gun back toward the finished weld. It gives deeper penetration and a narrower, higher bead, and you can see the puddle better. It is preferred on thicker steel where penetration matters."
+  },
+  {
+    "id": 352,
+    "domain": "welding_processes",
+    "front": "Push versus pull, which gives deeper penetration?",
+    "back": "The pull or drag technique gives deeper penetration because the arc force digs into the already-deposited area and the puddle. The push technique spreads heat ahead, giving a flatter, shallower bead. Choose based on thickness and the WPS."
+  },
+  {
+    "id": 353,
+    "domain": "welding_processes",
+    "front": "What is the typical travel angle in GMAW?",
+    "back": "A travel angle of about 5 to 15 degrees is normal, either pushing or pulling. Too steep an angle disturbs the gas shield and pulls air into the weld, causing porosity. Keep the angle moderate for good coverage and a clean bead."
+  },
+  {
+    "id": 354,
+    "domain": "welding_processes",
+    "front": "What causes porosity in GMAW?",
+    "back": "Porosity in GMAW comes from lost gas shielding or contamination. Common causes are low gas flow, wind blowing the gas away, a clogged nozzle, too long a stickout, or dirty, oily, rusty base metal. Gas leaks in hoses can also cause it."
+  },
+  {
+    "id": 355,
+    "domain": "welding_processes",
+    "front": "How does wind affect GMAW welds?",
+    "back": "Wind blows away the shielding gas so air reaches the weld, causing porosity and a poor weld. GMAW should be done indoors or behind windscreens. Even a fan or open door can ruin the gas coverage outdoors."
+  },
+  {
+    "id": 356,
+    "domain": "welding_processes",
+    "front": "What is burnback in GMAW?",
+    "back": "Burnback is when the wire melts back and fuses to the contact tip, stopping wire feed. It is caused by too slow wire feed for the voltage, a stickout that is too short, or stopping the gun too close to the work. You may have to replace the tip."
+  },
+  {
+    "id": 357,
+    "domain": "welding_processes",
+    "front": "How do you prevent burnback?",
+    "back": "Match wire feed speed to voltage so the wire is not melting faster than it feeds. Keep a proper stickout and pull the gun away as you release the trigger. A correct burnback setting on the machine also melts the wire clear of the puddle at the end."
+  },
+  {
+    "id": 358,
+    "domain": "welding_processes",
+    "front": "What causes excessive spatter in GMAW?",
+    "back": "Heavy spatter comes from wrong settings or poor conditions: voltage too high or too low, dirty metal, wrong gas like pure CO2, or globular transfer. A worn liner or contact tip and bad ground can also add spatter. Tuning voltage and wire feed usually reduces it."
+  },
+  {
+    "id": 359,
+    "domain": "welding_processes",
+    "front": "What is a contact tip and why does it wear out?",
+    "back": "The contact tip is the small copper part that passes welding current to the wire as it slides through. The constant rubbing and heat wear the bore out of round, which causes an erratic arc and wandering wire. A worn tip should be replaced."
+  },
+  {
+    "id": 360,
+    "domain": "welding_processes",
+    "front": "What does the gun liner do in GMAW?",
+    "back": "The liner is the long coiled or plastic tube inside the gun cable that guides the wire from the feeder to the contact tip. If it gets dirty, kinked, or worn, the wire feed becomes jerky. A bad liner causes feeding problems and arc instability."
+  },
+  {
+    "id": 361,
+    "domain": "welding_processes",
+    "front": "What is birdnesting in GMAW?",
+    "back": "Birdnesting is a tangle of wire that jams at the drive rolls when the wire cannot feed forward. It often happens when the wire stubs into the work or the liner is blocked. You have to cut the wire and clear the tangle before welding again."
+  },
+  {
+    "id": 362,
+    "domain": "welding_processes",
+    "front": "What do the drive rolls do and how should tension be set?",
+    "back": "Drive rolls grip and push the wire from the spool through the liner. Tension should be just enough to feed the wire smoothly without slipping. Too much tension flattens or shaves the wire; too little lets it slip and stutter."
+  },
+  {
+    "id": 363,
+    "domain": "welding_processes",
+    "front": "What groove shape of drive roll suits solid steel wire?",
+    "back": "Solid steel GMAW wire uses a V-groove drive roll. Flux-cored and aluminum wires use U-groove or knurled rolls so they are not crushed. Using the wrong roll causes feeding problems."
+  },
+  {
+    "id": 364,
+    "domain": "welding_processes",
+    "front": "What is the right gas flow rate for GMAW?",
+    "back": "A typical flow is about 20 to 25 cubic feet per hour for normal indoor work, set on the flowmeter. Too little gas lets air in and causes porosity. Too much gas creates turbulence that can also pull air into the weld."
+  },
+  {
+    "id": 365,
+    "domain": "welding_processes",
+    "front": "Why can too much gas flow cause porosity?",
+    "back": "Too high a flow makes the gas turbulent instead of a smooth blanket. The swirling gas pulls surrounding air into the weld zone. So both too little and too much flow can cause porosity; the goal is a calm, steady shield."
+  },
+  {
+    "id": 366,
+    "domain": "welding_processes",
+    "front": "What is the difference between flowmeter and flow gauge regulators?",
+    "back": "A flowmeter has a ball in a tapered tube and reads actual gas flow accurately regardless of restrictions downstream. A flow gauge reads pressure and estimates flow, which is less accurate if there is a blockage. Flowmeters are preferred for accurate shielding."
+  },
+  {
+    "id": 367,
+    "domain": "welding_processes",
+    "front": "How do you set up GMAW for thin sheet metal?",
+    "back": "Use short-circuit transfer with lower voltage and wire feed, a smaller wire like 0.023 to 0.030 inch, and a faster travel speed. The push technique and lighter heat help avoid burn-through. Tack often to control warping."
+  },
+  {
+    "id": 368,
+    "domain": "welding_processes",
+    "front": "How do you set up GMAW for thick steel?",
+    "back": "Use higher voltage and wire feed, a larger wire, and spray or globular transfer for more penetration and deposition. The drag technique gives deeper fusion. Multiple passes and proper joint preparation handle the thickness."
+  },
+  {
+    "id": 369,
+    "domain": "welding_processes",
+    "front": "What is cold lap or lack of fusion in GMAW?",
+    "back": "Cold lap is when weld metal sits on top of the base metal without truly melting into it, like glue that did not bond. It is common in short-circuit GMAW when settings are too cold or travel is too fast. It looks fine but is weak and fails inspection."
+  },
+  {
+    "id": 370,
+    "domain": "welding_processes",
+    "front": "Why is lack of fusion dangerous and hard to spot?",
+    "back": "Lack of fusion leaves a weak joint that can fail under load even though the surface looks acceptable. It often does not show on the surface, so it can pass a visual check. It is found with ultrasonic, radiographic, or bend testing."
+  },
+  {
+    "id": 371,
+    "domain": "welding_processes",
+    "front": "What is burn-through in GMAW?",
+    "back": "Burn-through, or melt-through, is when the arc melts a hole through the metal instead of a sound weld. It happens on thin metal with too much heat, too slow travel, or too large a root gap. Lower the voltage and wire feed and travel faster to fix it."
+  },
+  {
+    "id": 372,
+    "domain": "welding_processes",
+    "front": "Why must the ground clamp connection be clean and tight?",
+    "back": "The ground, or work clamp, completes the welding circuit. A loose or rusty connection adds resistance, causing a weak, erratic arc, overheating, and spatter. Clamp it to clean bare metal close to the weld."
+  },
+  {
+    "id": 373,
+    "domain": "welding_processes",
+    "front": "What is whiskers in GMAW?",
+    "back": "Whiskers are short lengths of wire that poke through the back of an open root and stick out, caused by feeding the wire faster than it melts at the root. They are a defect on the back side. Slowing travel or adjusting technique prevents them."
+  },
+  {
+    "id": 374,
+    "domain": "welding_processes",
+    "front": "What is the silicon island left on steel GMAW welds?",
+    "back": "Silicon islands are small glassy brown spots on top of the bead, formed from the silicon deoxidizers in wires like ER70S-6. They are not slag and are normal, but they should be brushed off between passes. Leaving them can trap inclusions in the next pass."
+  },
+  {
+    "id": 375,
+    "domain": "welding_processes",
+    "front": "How do you handle restarts and tie-ins in GMAW?",
+    "back": "Clean the previous bead, then start a short distance ahead on or just past the crater and move back into it before going forward. This fuses the two beads and fills the crater. A poor tie-in leaves a bump or a cold, unfused spot."
+  },
+  {
+    "id": 376,
+    "domain": "welding_processes",
+    "front": "What is crater fill in GMAW and why does it matter?",
+    "back": "Crater fill adds extra metal at the end of a weld to fill the dip left when the arc stops. Without it the crater can crack, especially on high-strength steel. Some machines have a crater fill setting that lowers current to fill the spot."
+  },
+  {
+    "id": 377,
+    "domain": "welding_processes",
+    "front": "What protects GMAW operators from arc rays?",
+    "back": "An auto-darkening or fixed-shade welding helmet protects the eyes and face from the bright arc and ultraviolet light. The arc can cause flash burn to unprotected eyes. Long sleeves and gloves protect skin from radiation burns."
+  },
+  {
+    "id": 378,
+    "domain": "welding_processes",
+    "front": "What shade lens is common for GMAW?",
+    "back": "GMAW often uses a shade between 10 and 13 depending on the amperage; higher current needs a darker shade. The right shade lets you see the puddle without harming your eyes. Always follow the chart for your current range."
+  },
+  {
+    "id": 379,
+    "domain": "welding_processes",
+    "front": "Why is ventilation important for GMAW?",
+    "back": "GMAW produces fumes and gases that are harmful to breathe, especially in tight spaces. Good ventilation or fume extraction keeps the air safe. Welding on coated or galvanized metal makes worse fumes and needs extra caution."
+  },
+  {
+    "id": 380,
+    "domain": "welding_processes",
+    "front": "What are the dangers of welding galvanized steel?",
+    "back": "Galvanized steel has a zinc coating that vaporizes when welded and gives off fumes that can cause metal fume fever, a flu-like sickness. Grind off the coating at the weld area and use strong ventilation. Never weld zinc-coated metal in a closed space without protection."
+  },
+  {
+    "id": 381,
+    "domain": "welding_processes",
+    "front": "What is the difference between GMAW and FCAW?",
+    "back": "GMAW uses solid wire and a separate shielding gas. FCAW, flux-cored arc welding, uses a tubular wire with flux inside that can shield the weld with or without extra gas. FCAW leaves slag and handles wind and dirty steel better outdoors."
+  },
+  {
+    "id": 382,
+    "domain": "welding_processes",
+    "front": "Why is SMAW often preferred for field and outdoor work?",
+    "back": "SMAW does not rely on a separate gas bottle, so wind does not blow the shielding away. The flux coating makes its own shielding gas and slag. This makes stick welding reliable for outdoor structural, pipeline, and repair jobs."
+  },
+  {
+    "id": 383,
+    "domain": "welding_processes",
+    "front": "When would you choose GMAW over SMAW?",
+    "back": "Choose GMAW for fast, continuous welding in a shop with no wind, especially on thin to medium steel and for high production. It has no slag, less cleanup, and is easy to learn. SMAW is better outdoors, on dirty steel, and for thick code work."
+  },
+  {
+    "id": 384,
+    "domain": "welding_processes",
+    "front": "What is duty cycle on a welding machine?",
+    "back": "Duty cycle is the percentage of a ten-minute period the machine can weld at a given amperage without overheating. A 60 percent duty cycle at 200 amps means six minutes welding and four minutes cooling. Going over the duty cycle can damage the machine."
+  },
+  {
+    "id": 385,
+    "domain": "welding_processes",
+    "front": "What is a constant current versus constant voltage power source?",
+    "back": "SMAW and TIG use constant current machines, where the amperage stays steady even if the arc length changes. GMAW and FCAW use constant voltage machines, where the voltage stays steady and the wire feed sets the amps. Matching the right source to the process is essential."
+  },
+  {
+    "id": 386,
+    "domain": "welding_processes",
+    "front": "Why does GMAW use a constant voltage power source?",
+    "back": "Constant voltage keeps the arc length stable by automatically adjusting current as the stickout changes. If the wire gets closer, current rises and burns it back; if farther, current drops. This self-regulation keeps the wire-fed arc steady."
+  },
+  {
+    "id": 387,
+    "domain": "welding_processes",
+    "front": "What is the purpose of a tack weld?",
+    "back": "A tack weld is a small temporary weld that holds parts in position before final welding. It keeps alignment and fit-up while you weld the full joint. Tacks should be small, sound, and either melted into or removed by the final weld."
+  },
+  {
+    "id": 388,
+    "domain": "welding_processes",
+    "front": "What is distortion and how do you control it?",
+    "back": "Distortion is the warping of metal from the heat and shrinking of welding. Control it with tack welds, clamps and jigs, balanced welding on both sides, a back-step sequence, and not over-welding. Lower heat input also reduces warping."
+  },
+  {
+    "id": 389,
+    "domain": "welding_processes",
+    "front": "What is a WPS?",
+    "back": "A WPS is a Welding Procedure Specification, the written instructions for making a code-quality weld. It lists the process, electrode or wire, gas, current, voltage, polarity, positions, preheat, and technique. Welders must follow the WPS to meet code."
+  },
+  {
+    "id": 390,
+    "domain": "welding_processes",
+    "front": "Why is joint preparation important in both SMAW and GMAW?",
+    "back": "Joint prep, such as beveling edges and setting the right root gap, lets the weld penetrate fully and fuse both sides. Clean, properly fitted joints prevent lack of fusion and trapped slag. Poor fit-up leads to weak welds and defects no matter how skilled the welder is."
+  },
+  {
+    "id": 391,
+    "domain": "welding_processes",
+    "front": "What does FCAW stand for and what makes it different from MIG?",
+    "back": "FCAW means Flux Cored Arc Welding. It uses a hollow tubular wire filled with flux instead of a solid wire. The flux creates shielding gas and slag as it burns, so some versions need no separate shielding gas at all."
+  },
+  {
+    "id": 392,
+    "domain": "welding_processes",
+    "front": "Self-shielded vs gas-shielded FCAW: what is the difference?",
+    "back": "Self-shielded FCAW (FCAW-S) makes all its own gas protection from the flux burning, so no gas bottle is needed. Gas-shielded FCAW (FCAW-G) uses the flux plus an external shielding gas like CO2 or a CO2/argon mix. FCAW-S is better outdoors in wind because no gas blows away."
+  },
+  {
+    "id": 393,
+    "domain": "welding_processes",
+    "front": "Why is FCAW good for outdoor and windy jobs?",
+    "back": "Self-shielded FCAW makes its own gas shield from inside the wire, so wind cannot blow the protection away. A separate gas bottle can lose its shield in even a light breeze. This is why FCAW-S is popular on structural sites and bridges."
+  },
+  {
+    "id": 394,
+    "domain": "welding_processes",
+    "front": "What does the wire classification E71T-1 mean?",
+    "back": "E is electrode, 7 means 70,000 psi minimum tensile strength, 1 means it welds in all positions. T means tubular (flux cored). The -1 tells you it is a gas-shielded wire run on DCEP that gives a smooth spray-like arc with good slag."
+  },
+  {
+    "id": 395,
+    "domain": "welding_processes",
+    "front": "What polarity does E71T-1 gas-shielded wire use?",
+    "back": "E71T-1 runs on DCEP, which is direct current electrode positive (reverse polarity). The electrode is connected to the positive terminal. Most gas-shielded flux cored wires use DCEP for a stable arc and good penetration."
+  },
+  {
+    "id": 396,
+    "domain": "welding_processes",
+    "front": "What polarity do most self-shielded FCAW wires use?",
+    "back": "Most self-shielded wires such as E71T-8 or E71T-11 run on DCEN, which is direct current electrode negative (straight polarity). The electrode connects to the negative terminal. Using the wrong polarity on these wires causes a poor unstable arc."
+  },
+  {
+    "id": 397,
+    "domain": "welding_processes",
+    "front": "What is electrode stickout in FCAW and why does it matter?",
+    "back": "Stickout is the length of wire sticking out past the contact tip to the work. FCAW uses a longer stickout than MIG, often 19 to 38 mm. More stickout preheats the wire and raises deposition, but too much stickout loses gas shielding and weakens the arc."
+  },
+  {
+    "id": 398,
+    "domain": "welding_processes",
+    "front": "Why does FCAW leave slag, and what must a welder do about it?",
+    "back": "The flux inside the wire melts and floats to the top of the weld, forming a slag crust that protects the cooling metal. The welder must chip and wire brush off all slag between passes. Trapped slag left behind becomes a slag inclusion defect."
+  },
+  {
+    "id": 399,
+    "domain": "welding_processes",
+    "front": "What is a slag inclusion and how is it caused?",
+    "back": "A slag inclusion is leftover slag trapped inside the weld metal instead of floating to the surface. It is caused by poor cleaning between passes, too fast travel, or a weld profile that traps slag. It weakens the joint and shows up on x-ray as dark spots."
+  },
+  {
+    "id": 400,
+    "domain": "welding_processes",
+    "front": "What does MCAW stand for and how does it differ from FCAW?",
+    "back": "MCAW means Metal Cored Arc Welding. The tubular wire is filled mostly with metal powder and a small amount of arc stabilizers, not flux. It makes very little slag and gives high deposition with a spray arc, behaving more like a high-output solid MIG wire."
+  },
+  {
+    "id": 401,
+    "domain": "welding_processes",
+    "front": "Why does metal cored wire leave almost no slag?",
+    "back": "MCAW wire is filled with metal powder rather than slag-forming flux. The core melts into the weld pool and adds to the deposit instead of making a crust. You may see only small islands of glassy silicon on the surface, so cleanup between passes is fast."
+  },
+  {
+    "id": 402,
+    "domain": "welding_processes",
+    "front": "What shielding gas does gas-shielded FCAW commonly use?",
+    "back": "Gas-shielded FCAW uses either 100 percent CO2 or a mix such as 75 percent argon and 25 percent CO2. Pure CO2 gives deeper penetration but more spatter. The argon mix gives a smoother arc and less spatter but slightly less penetration."
+  },
+  {
+    "id": 403,
+    "domain": "welding_processes",
+    "front": "Why does FCAW give higher deposition rates than stick welding?",
+    "back": "FCAW feeds wire continuously instead of stopping to change electrodes like stick welding. The longer electrical stickout also preheats the wire so more metal melts per minute. This makes FCAW much faster for filling large welds on thick steel."
+  },
+  {
+    "id": 404,
+    "domain": "welding_processes",
+    "front": "What causes worm tracks (surface porosity) in FCAW?",
+    "back": "Worm tracks are long thin lines of trapped gas on the weld surface. They are often caused by too high voltage, moisture in the flux or shielding gas, or too long a stickout. Drying the wire and lowering voltage usually fixes them."
+  },
+  {
+    "id": 405,
+    "domain": "welding_processes",
+    "front": "How should FCAW wire be stored to prevent problems?",
+    "back": "Flux cored wire must be kept dry because the flux absorbs moisture from the air. Damp flux releases hydrogen and water vapor that cause porosity and cracking. Store wire in a sealed package or a heated cabinet and do not leave opened spools in humid air."
+  },
+  {
+    "id": 406,
+    "domain": "welding_processes",
+    "front": "What does GTAW stand for and what is it commonly called?",
+    "back": "GTAW means Gas Tungsten Arc Welding. It is commonly called TIG, short for Tungsten Inert Gas. It uses a non-consumable tungsten electrode to make the arc and a separate filler rod added by hand, with inert gas shielding the weld."
+  },
+  {
+    "id": 407,
+    "domain": "welding_processes",
+    "front": "Why is the tungsten electrode in GTAW called non-consumable?",
+    "back": "The tungsten makes the arc but is not meant to melt into the weld. Tungsten has an extremely high melting point near 3400 degrees C, so it stays solid while the base metal and filler melt. If tungsten touches the pool it contaminates the weld and must be reground."
+  },
+  {
+    "id": 408,
+    "domain": "welding_processes",
+    "front": "What color band marks 2 percent thoriated tungsten and what is it used for?",
+    "back": "Two percent thoriated tungsten has a red color band. It is used for DCEN welding of steel and stainless steel because it starts easily and handles high current. Thorium is mildly radioactive, so many shops now prefer lanthanated or ceriated tungsten as a safer choice."
+  },
+  {
+    "id": 409,
+    "domain": "welding_processes",
+    "front": "What color band marks pure tungsten and what is it used for?",
+    "back": "Pure tungsten has a green color band. It was traditionally used for AC welding of aluminum and magnesium because it forms a stable balled tip. It has been largely replaced by zirconiated and lanthanated tungsten that handle more current."
+  },
+  {
+    "id": 410,
+    "domain": "welding_processes",
+    "front": "What color band marks 2 percent ceriated tungsten?",
+    "back": "Two percent ceriated tungsten has a grey color band. It starts easily at low current and works on both AC and DC. It is popular for thin sections, stainless steel, and small precise welds. It is not radioactive, unlike thoriated tungsten."
+  },
+  {
+    "id": 411,
+    "domain": "welding_processes",
+    "front": "What color band marks 1.5 percent lanthanated tungsten?",
+    "back": "One and a half percent lanthanated tungsten has a gold color band. It is a versatile all-around choice that works on AC and DC for steel, stainless, and aluminum. It starts easily, keeps a sharp point, and is non-radioactive."
+  },
+  {
+    "id": 412,
+    "domain": "welding_processes",
+    "front": "What color band marks zirconiated tungsten and what is it for?",
+    "back": "Zirconiated tungsten has a white color band. It is used mainly for AC welding of aluminum and magnesium because it holds a balled tip well and resists contamination. It is a good choice where weld purity matters."
+  },
+  {
+    "id": 413,
+    "domain": "welding_processes",
+    "front": "When do you use DCEN versus AC in GTAW?",
+    "back": "DCEN (electrode negative) is used for steel, stainless, copper, and most metals because it gives deep narrow penetration. AC is used for aluminum and magnesium because the reversing current cleans the tough oxide layer off the surface. Choosing the wrong one gives poor results."
+  },
+  {
+    "id": 414,
+    "domain": "welding_processes",
+    "front": "Why is AC needed to weld aluminum with GTAW?",
+    "back": "Aluminum forms a tough oxide skin that melts at a far higher temperature than the metal underneath. AC switches direction many times per second, and the electrode-positive half of the cycle blasts that oxide away (cathodic cleaning). This lets the metal underneath fuse cleanly."
+  },
+  {
+    "id": 415,
+    "domain": "welding_processes",
+    "front": "How should the tungsten tip be shaped for DC welding of steel?",
+    "back": "For DCEN on steel and stainless, grind the tungsten to a sharp point with grinding marks running lengthwise. A pointed tip focuses the arc for a narrow precise bead. Grinding crosswise leaves ridges that make the arc wander."
+  },
+  {
+    "id": 416,
+    "domain": "welding_processes",
+    "front": "How should the tungsten tip be shaped for AC welding of aluminum?",
+    "back": "For AC aluminum work the tungsten is given a slightly rounded or balled tip. The high heat of AC naturally melts a small ball on the end. A balled tip handles the AC current better and gives a stable wide arc."
+  },
+  {
+    "id": 417,
+    "domain": "welding_processes",
+    "front": "What is HF start in GTAW and why is it used?",
+    "back": "HF means high frequency. It is a high voltage spark that jumps the gap and starts the arc without the tungsten touching the metal. This avoids contaminating the tungsten and the weld with a touch start. HF is also used on AC to keep the arc reigniting each half cycle."
+  },
+  {
+    "id": 418,
+    "domain": "welding_processes",
+    "front": "What is a lift arc start and how does it differ from HF start?",
+    "back": "In a lift arc start the welder touches the tungsten to the work, then lifts it slightly to draw the arc, with the machine limiting current so the tungsten is not damaged. Unlike HF start there is no high frequency spark, so it is cleaner around sensitive electronics but slightly riskier for contamination."
+  },
+  {
+    "id": 419,
+    "domain": "welding_processes",
+    "front": "What shielding gas is normally used for GTAW?",
+    "back": "GTAW almost always uses pure argon because it is inert and gives a stable arc with good cleaning. Helium or argon-helium mixes are added for thick aluminum or copper to put more heat into the joint. Argon is the standard default for most TIG work."
+  },
+  {
+    "id": 420,
+    "domain": "welding_processes",
+    "front": "Why is pure argon preferred over CO2 in GTAW?",
+    "back": "CO2 is a reactive gas that would oxidize and ruin the hot tungsten electrode. Argon is inert, meaning it does not react, so it protects both the tungsten and the weld pool. GTAW needs an inert gas to keep the tungsten clean."
+  },
+  {
+    "id": 421,
+    "domain": "welding_processes",
+    "front": "When is helium added to GTAW shielding gas?",
+    "back": "Helium is added for thick aluminum and copper because it carries more heat into the joint, giving deeper penetration and faster travel. The trade-off is that helium needs higher flow rates and makes the arc harder to start. Often it is mixed with argon to balance both."
+  },
+  {
+    "id": 422,
+    "domain": "welding_processes",
+    "front": "What filler rod is typically used for welding 6061 aluminum?",
+    "back": "For 6061 aluminum the common filler choices are 4043 or 5356. 4043 gives a smoother bead and resists cracking, while 5356 is stronger and better for anodizing color match. Choosing the filler depends on strength, appearance, and service needs."
+  },
+  {
+    "id": 423,
+    "domain": "welding_processes",
+    "front": "What filler metal is used for GTAW of 304 stainless steel?",
+    "back": "For 304 stainless steel the usual filler is ER308L. The 308L has matching corrosion resistance plus a little extra chromium and nickel to handle dilution. The L means low carbon, which helps prevent corrosion at the grain boundaries near the weld."
+  },
+  {
+    "id": 424,
+    "domain": "welding_processes",
+    "front": "Why is back purging used when GTAW welding stainless pipe?",
+    "back": "When stainless is welded the back side of the root can oxidize and turn black or sugary if exposed to air, which ruins corrosion resistance. Back purging fills the inside of the pipe with argon so the root stays clean and bright. This is required on high quality stainless and titanium piping."
+  },
+  {
+    "id": 425,
+    "domain": "welding_processes",
+    "front": "What is the role of the gas lens in a GTAW torch?",
+    "back": "A gas lens is a screen-like insert that smooths the shielding gas into an even column. It lets the tungsten stick out farther while still keeping good coverage. This helps reach into tight joints and corners without losing gas protection."
+  },
+  {
+    "id": 426,
+    "domain": "welding_processes",
+    "front": "Why must aluminum be cleaned before GTAW?",
+    "back": "Aluminum holds a tough oxide layer and absorbs grease and moisture that cause porosity. The welder should remove oxide with a stainless brush kept only for aluminum and wipe oils off with solvent. Clean metal gives a clean weld free of holes."
+  },
+  {
+    "id": 427,
+    "domain": "welding_processes",
+    "front": "What causes a tungsten inclusion in a GTAW weld?",
+    "back": "A tungsten inclusion is a tiny piece of tungsten broken off into the weld, usually from dipping the electrode in the pool or touching it with the filler rod. It shows as a bright white spot on x-ray. The weld must be ground out and redone."
+  },
+  {
+    "id": 428,
+    "domain": "welding_processes",
+    "front": "What does SAW stand for and how does it work?",
+    "back": "SAW means Submerged Arc Welding. A bare wire feeds into the joint while granular flux is poured over it, burying the arc under a blanket of flux. The arc burns hidden under the flux, so there is no visible light, smoke, or spatter."
+  },
+  {
+    "id": 429,
+    "domain": "welding_processes",
+    "front": "Why is SAW called submerged?",
+    "back": "The arc is submerged, meaning buried, under a layer of granular flux. The flux completely covers the arc so no bright light or fumes escape. This protects the weld, holds in heat, and shields the operator from arc flash."
+  },
+  {
+    "id": 430,
+    "domain": "welding_processes",
+    "front": "What are the main advantages of SAW?",
+    "back": "SAW gives very high deposition rates and deep penetration with little spatter or fume. It is ideal for long straight welds on thick plate, such as pressure vessels, beams, and pipe seams. Because the arc is hidden it is usually automated or mechanized."
+  },
+  {
+    "id": 431,
+    "domain": "welding_processes",
+    "front": "What is the limitation that keeps SAW from all positions?",
+    "back": "The flux must sit on top of the joint to cover the arc, so SAW only works flat or horizontal where the flux stays in place. It cannot be used vertical or overhead because the loose flux would fall off. This is why SAW is for flat production welding."
+  },
+  {
+    "id": 432,
+    "domain": "welding_processes",
+    "front": "What is the difference between fused and bonded SAW flux?",
+    "back": "Fused flux is melted, cooled, and crushed into hard glassy grains that resist moisture and can be reused. Bonded flux is mixed with a binder and baked at lower temperature, so it can carry alloys and deoxidizers but absorbs moisture more easily. Bonded flux can add alloy; fused flux is more stable."
+  },
+  {
+    "id": 433,
+    "domain": "welding_processes",
+    "front": "Why is the wire-flux combination important in SAW?",
+    "back": "In SAW the flux and the wire work together to set the final weld chemistry and strength. CSA classifies them as a matched pair because changing either one changes the deposit. A WPS specifies the exact wire and flux combination that must be used."
+  },
+  {
+    "id": 434,
+    "domain": "welding_processes",
+    "front": "What happens to the unused flux in SAW?",
+    "back": "The flux that did not melt can be vacuumed up and reused if it is kept clean and dry. The melted part forms a hard slag crust that lifts off the finished weld. Recovered flux should be sieved to remove fused lumps before reuse."
+  },
+  {
+    "id": 435,
+    "domain": "welding_processes",
+    "front": "Why does SAW achieve such deep penetration?",
+    "back": "SAW runs at very high currents, often several hundred amps, with the heat trapped under the flux blanket. The concentrated heat melts deep into the base metal. This lets single passes weld thick plate that would need many passes by other processes."
+  },
+  {
+    "id": 436,
+    "domain": "welding_processes",
+    "front": "How is SAW flux kept dry and why does it matter?",
+    "back": "SAW flux must be stored sealed and often kept in a heated hopper because moisture in flux releases hydrogen that causes cracking and porosity. Wet flux is rebaked at the maker's recommended temperature before use. Dry flux gives sound low-hydrogen welds."
+  },
+  {
+    "id": 437,
+    "domain": "welding_processes",
+    "front": "What is the HAZ in a weld?",
+    "back": "HAZ means Heat Affected Zone. It is the band of base metal next to the weld that did not melt but got hot enough to change its grain structure and properties. The HAZ is often the weakest or most crack-prone part of a welded joint."
+  },
+  {
+    "id": 438,
+    "domain": "welding_processes",
+    "front": "Why can the HAZ be harder and more brittle than the rest of the metal?",
+    "back": "The metal in the HAZ heats up fast and then cools fast as the surrounding cool metal pulls the heat away. In hardenable steels this rapid cooling forms hard brittle martensite. Preheating slows the cooling so the HAZ stays softer and tougher."
+  },
+  {
+    "id": 439,
+    "domain": "welding_processes",
+    "front": "What is preheat and why is it used?",
+    "back": "Preheat means warming the base metal before welding, often with a torch or heating blankets. It slows down how fast the weld cools, which reduces hardness in the HAZ and lets trapped hydrogen escape. Preheat is used on thick sections and high carbon steels to prevent cracking."
+  },
+  {
+    "id": 440,
+    "domain": "welding_processes",
+    "front": "What is interpass temperature?",
+    "back": "Interpass temperature is the temperature of the metal just before the next weld pass is laid down on a multi-pass weld. The WPS sets a minimum and a maximum. Too cold risks cracking; too hot can weaken the metal and ruin its grain structure."
+  },
+  {
+    "id": 441,
+    "domain": "welding_processes",
+    "front": "What three things must combine to cause hydrogen cracking?",
+    "back": "Hydrogen cracking needs three things at once: hydrogen in the weld, a hard brittle microstructure, and tensile stress, usually with temperatures below about 150 degrees C. Remove any one of these and the crack will not form. This is why low-hydrogen practice, preheat, and good fit-up matter."
+  },
+  {
+    "id": 442,
+    "domain": "welding_processes",
+    "front": "Why is hydrogen cracking also called delayed cracking?",
+    "back": "Hydrogen cracks often appear hours or even days after the weld has cooled, not right away. The hydrogen slowly moves through the metal and builds pressure in weak spots over time. Because it is delayed, inspections are sometimes held off 48 hours on critical joints."
+  },
+  {
+    "id": 443,
+    "domain": "welding_processes",
+    "front": "How do low-hydrogen electrodes help prevent cracking?",
+    "back": "Low-hydrogen electrodes such as E7018 have a flux that holds very little moisture, so little hydrogen enters the weld. Keeping them in a heated rod oven keeps them dry. Less hydrogen in the weld means far less chance of delayed cracking."
+  },
+  {
+    "id": 444,
+    "domain": "welding_processes",
+    "front": "What is PWHT and why is it done?",
+    "back": "PWHT means Post Weld Heat Treatment. The whole welded part is slowly heated, held at temperature, then slowly cooled to relieve locked-in stresses and soften any hard brittle zones. It is required on thick pressure vessels and certain alloy steels to make the joint safe and tough."
+  },
+  {
+    "id": 445,
+    "domain": "welding_processes",
+    "front": "What is the difference between preheat and PWHT?",
+    "back": "Preheat warms the metal before and during welding to control cooling and prevent cracking. PWHT heats the finished part after welding to relieve stress and improve toughness. Preheat happens first; PWHT happens last."
+  },
+  {
+    "id": 446,
+    "domain": "welding_processes",
+    "front": "What is weld distortion and what causes it?",
+    "back": "Distortion is the warping or bending of a part caused by the uneven heating and cooling of welding. As the weld cools it shrinks and pulls the metal out of shape. Common forms are angular distortion, bowing, and twisting."
+  },
+  {
+    "id": 447,
+    "domain": "welding_processes",
+    "front": "Name three ways to control or reduce welding distortion.",
+    "back": "You can clamp or fixture the parts to hold them in place, use a back-step or balanced welding sequence to spread heat evenly, and pre-set the joint with a slight reverse angle so it pulls back to true. Limiting heat input and weld size also helps. Tack welds and proper sequencing control most distortion."
+  },
+  {
+    "id": 448,
+    "domain": "welding_processes",
+    "front": "What is angular distortion?",
+    "back": "Angular distortion is when a joint folds upward as it cools, like a book closing, because the top of the weld shrinks more than the root. It is common in fillet welds and single-V butt welds. Pre-setting the parts at a slight reverse angle helps cancel it out."
+  },
+  {
+    "id": 449,
+    "domain": "welding_processes",
+    "front": "What is heat input and why does it affect weld quality?",
+    "back": "Heat input is the amount of energy put into the weld, set by amps, volts, and travel speed. Too much heat input causes distortion, a large soft HAZ, and weak grain structure. Too little causes lack of fusion. The WPS controls heat input within set limits."
+  },
+  {
+    "id": 450,
+    "domain": "welding_processes",
+    "front": "What is VT in weld inspection?",
+    "back": "VT means Visual Testing, the most basic and most used inspection method. The inspector looks at the weld with the eyes, gauges, and sometimes a magnifier to check size, profile, and surface flaws. It catches undercut, overlap, cracks, and bad bead shape before deeper testing."
+  },
+  {
+    "id": 451,
+    "domain": "welding_processes",
+    "front": "What surface defects can a visual inspection catch?",
+    "back": "Visual inspection finds undercut, overlap, surface cracks, surface porosity, spatter, crater cracks, poor bead profile, and wrong weld size. It cannot find anything hidden under the surface. That is why other methods are added for buried defects."
+  },
+  {
+    "id": 452,
+    "domain": "welding_processes",
+    "front": "What is MT and what defects does it find?",
+    "back": "MT means Magnetic Particle Testing. The part is magnetized and fine iron powder is dusted on; the powder gathers at cracks where the magnetic field leaks out. It finds surface and slightly subsurface cracks but only works on magnetic metals like carbon steel, not aluminum or stainless."
+  },
+  {
+    "id": 453,
+    "domain": "welding_processes",
+    "front": "Why does MT only work on certain metals?",
+    "back": "Magnetic particle testing relies on magnetizing the metal, so it only works on ferromagnetic materials like carbon and low-alloy steel. Aluminum, copper, and most stainless steels cannot be magnetized, so MT will not work on them. For those metals dye penetrant is used instead."
+  },
+  {
+    "id": 454,
+    "domain": "welding_processes",
+    "front": "What is PT and how does it work?",
+    "back": "PT means Penetrant Testing, also called dye penetrant. A colored or fluorescent liquid is sprayed on, seeps into surface cracks, then the surface is wiped and a developer draws the dye back out to show the flaw. It works on any non-porous metal but only finds defects open to the surface."
+  },
+  {
+    "id": 455,
+    "domain": "welding_processes",
+    "front": "What is the main limitation of PT?",
+    "back": "Penetrant testing only finds defects that break the surface, because the dye must seep into an opening. It cannot detect anything fully buried inside the weld. It also needs a clean, smooth, non-porous surface to work properly."
+  },
+  {
+    "id": 456,
+    "domain": "welding_processes",
+    "front": "What is RT in weld inspection?",
+    "back": "RT means Radiographic Testing, which uses x-rays or gamma rays to make a picture through the weld, much like a medical x-ray. Internal defects show up as dark or light marks on the film or digital image. It finds buried flaws like porosity, slag, and lack of fusion."
+  },
+  {
+    "id": 457,
+    "domain": "welding_processes",
+    "front": "What are the safety concerns with RT?",
+    "back": "Radiographic testing uses dangerous ionizing radiation that can harm people, so the area must be cleared and roped off during exposure. Only trained, licensed technicians may run it, and they wear dose badges. It is often done after hours when few workers are around."
+  },
+  {
+    "id": 458,
+    "domain": "welding_processes",
+    "front": "What is UT in weld inspection?",
+    "back": "UT means Ultrasonic Testing. High frequency sound waves are sent into the weld with a probe, and echoes bounce back off any internal flaw. The screen shows the size and depth of buried defects. UT is good at finding cracks and lack of fusion that x-ray sometimes misses."
+  },
+  {
+    "id": 459,
+    "domain": "welding_processes",
+    "front": "What advantage does UT have over RT?",
+    "back": "Ultrasonic testing has no radiation hazard, so the area does not need to be cleared. It is very good at finding planar flaws like cracks and lack of fusion that can be hard to see on x-ray. It also gives the depth of a defect, which x-ray cannot."
+  },
+  {
+    "id": 460,
+    "domain": "welding_processes",
+    "front": "What is undercut and why is it a problem?",
+    "back": "Undercut is a groove melted into the base metal along the edge of the weld that is not filled in. It cuts down the thickness of the joint and acts as a stress riser where cracks can start. It is usually caused by too much current, too fast travel, or wrong torch angle."
+  },
+  {
+    "id": 461,
+    "domain": "welding_processes",
+    "front": "What is overlap (cold lap) in a weld?",
+    "back": "Overlap is when weld metal rolls over onto the base metal without fusing to it, like cold solder sitting on a surface. It leaves a sharp notch and a spot with no real bond. It is caused by too slow travel, too low heat, or wrong technique."
+  },
+  {
+    "id": 462,
+    "domain": "welding_processes",
+    "front": "What is lack of fusion?",
+    "back": "Lack of fusion is when the weld metal does not properly melt and bond to the base metal or to a previous pass. The pieces sit together but are not truly joined. It is a serious defect because the joint can pull apart under load, and it is often caused by low heat or dirty surfaces."
+  },
+  {
+    "id": 463,
+    "domain": "welding_processes",
+    "front": "What is lack of penetration?",
+    "back": "Lack of penetration, or incomplete penetration, is when the weld does not reach all the way to the root of the joint as the drawing requires. It leaves an unwelded gap at the bottom. It is caused by too large a root face, too tight a root gap, low current, or fast travel."
+  },
+  {
+    "id": 464,
+    "domain": "welding_processes",
+    "front": "What is porosity in a weld?",
+    "back": "Porosity is gas bubbles trapped in the weld as it freezes, leaving holes inside or on the surface. It is caused by lost gas shielding, moisture, oil, rust, or wind. Scattered porosity weakens the weld and is a common reason welds get rejected on x-ray."
+  },
+  {
+    "id": 465,
+    "domain": "welding_processes",
+    "front": "What is a crater crack?",
+    "back": "A crater crack is a small star-shaped crack that forms in the dip left at the end of a weld bead. It happens when the arc is stopped too fast and the shrinking puddle tears itself apart. Using a crater fill or backing up over the end before stopping prevents it."
+  },
+  {
+    "id": 466,
+    "domain": "welding_processes",
+    "front": "What is the difference between hot cracking and cold cracking?",
+    "back": "Hot cracking happens while the weld is still very hot and freezing, often from impurities like sulfur in the grain boundaries. Cold cracking (hydrogen cracking) happens after the weld has cooled below about 150 degrees C and is driven by hydrogen and stress. They have different causes and cures."
+  },
+  {
+    "id": 467,
+    "domain": "welding_processes",
+    "front": "What is a WPS?",
+    "back": "WPS means Welding Procedure Specification. It is a written recipe that tells the welder exactly how to make a sound weld: the process, materials, joint design, position, current, preheat, and more. Following the WPS makes sure every weld meets the code."
+  },
+  {
+    "id": 468,
+    "domain": "welding_processes",
+    "front": "What is a PQR and how does it relate to a WPS?",
+    "back": "PQR means Procedure Qualification Record. It is the test report proving that welds made by a procedure actually pass the required strength and bend tests. The WPS is written from and backed by the PQR. In short, the PQR proves the WPS works."
+  },
+  {
+    "id": 469,
+    "domain": "welding_processes",
+    "front": "What does CSA W47.1 cover?",
+    "back": "CSA W47.1 is the Canadian standard for certifying companies to weld steel structures by fusion welding. A shop must be certified to this standard to do structural steel welding in Canada. It covers the welders, procedures, and supervision the company must have."
+  },
+  {
+    "id": 470,
+    "domain": "welding_processes",
+    "front": "What does CSA W59 cover?",
+    "back": "CSA W59 is the Canadian standard for welded steel construction, covering joint designs, weld sizes, allowable defects, and inspection rules for structural steel. It tells you what makes a weld acceptable or rejectable. Inspectors use W59 acceptance criteria to judge welds."
+  },
+  {
+    "id": 471,
+    "domain": "welding_processes",
+    "front": "What does CSA W48 cover?",
+    "back": "CSA W48 is the Canadian standard for filler metals, meaning the electrodes and wires used in welding. It sets the classification system and the strength and chemistry requirements for those consumables. When you read a code like E4918, it follows W48 rules."
+  },
+  {
+    "id": 472,
+    "domain": "welding_processes",
+    "front": "What does CSA W178.2 certify?",
+    "back": "CSA W178.2 certifies welding inspectors, setting the knowledge and experience levels they must have. It defines levels of inspector qualification. An inspector judging welds to Canadian codes is usually certified under W178.2."
+  },
+  {
+    "id": 473,
+    "domain": "welding_processes",
+    "front": "Why are essential variables important on a WPS?",
+    "back": "Essential variables are the settings that, if changed beyond a limit, change the weld's properties enough to require requalifying the procedure. Examples include process, filler metal type, preheat, and position. Staying inside the essential variables keeps the WPS valid."
+  },
+  {
+    "id": 474,
+    "domain": "welding_processes",
+    "front": "What does the metric electrode code E4918 mean in CSA W48?",
+    "back": "E is electrode, 49 means 490 MPa minimum tensile strength, 1 means all positions, and 8 means a low-hydrogen iron powder coating run on AC or DCEP. It is the metric Canadian equivalent of the well-known E7018. The numbers tell you strength, position, and coating."
+  },
+  {
+    "id": 475,
+    "domain": "welding_processes",
+    "front": "Why must a welder follow the joint design on the WPS?",
+    "back": "The joint design sets the bevel angle, root gap, and root face that allow proper penetration and fill. Changing it can cause lack of penetration or wasted filler. The design was qualified by testing, so the welder must reproduce it."
+  },
+  {
+    "id": 476,
+    "domain": "welding_processes",
+    "front": "What is a fillet weld?",
+    "back": "A fillet weld is a triangle-shaped weld that joins two surfaces meeting at roughly a right angle, like a T-joint, lap joint, or corner. It does not need the edges beveled. Its size is measured by leg length and throat thickness."
+  },
+  {
+    "id": 477,
+    "domain": "welding_processes",
+    "front": "What is a groove weld?",
+    "back": "A groove weld fills a gap or bevel prepared between two pieces, usually for butt joints on thicker metal. The edges are often beveled to a V, U, or J shape so the weld can reach full depth. Groove welds can be full penetration for maximum strength."
+  },
+  {
+    "id": 478,
+    "domain": "welding_processes",
+    "front": "How is fillet weld size measured?",
+    "back": "Fillet size is given by the leg length, the distance from the joint corner up each plate, measured with a fillet gauge. The effective throat, the shortest distance through the weld, carries the load. An undersized fillet is a common rejectable defect."
+  },
+  {
+    "id": 479,
+    "domain": "welding_processes",
+    "front": "What is the root of a weld?",
+    "back": "The root is the bottom or back of the joint where the two pieces come closest together, and it is welded first. Good root penetration is critical because the root carries much of the load and is hard to inspect. Many defects like lack of penetration occur at the root."
+  },
+  {
+    "id": 480,
+    "domain": "welding_processes",
+    "front": "What is the difference between a single-V and double-V groove?",
+    "back": "A single-V groove is beveled from one side only, welded mostly from one side. A double-V is beveled from both sides and welded from both, which uses less filler and balances shrinkage on thick plate. Double-V reduces distortion but needs access to both sides."
+  },
+  {
+    "id": 481,
+    "domain": "welding_processes",
+    "front": "What is excessive reinforcement on a weld?",
+    "back": "Reinforcement is the weld metal that sticks up above the surface of the base metal. A small amount is fine, but excessive reinforcement makes a sharp transition that concentrates stress and can be rejected by code. The cap should blend smoothly into the base metal."
+  },
+  {
+    "id": 482,
+    "domain": "welding_processes",
+    "front": "Why is travel speed important in welding?",
+    "back": "Travel speed sets how much heat and filler go into each length of weld. Too slow piles up too much metal, causes overlap, and overheats the joint. Too fast leaves a thin bead with lack of fusion and undercut. Correct speed gives the right bead size and penetration."
+  },
+  {
+    "id": 483,
+    "domain": "welding_processes",
+    "front": "What is spatter and how is it reduced?",
+    "back": "Spatter is the small droplets of molten metal thrown out of the arc that stick to the surface around the weld. It wastes metal and needs cleanup. It is reduced by correct voltage and wire speed, the right shielding gas, clean metal, and proper polarity."
+  },
+  {
+    "id": 484,
+    "domain": "welding_processes",
+    "front": "What is the difference between globular and spray transfer?",
+    "back": "Globular transfer drops large blobs of metal across the arc, which makes lots of spatter and is limited to flat positions. Spray transfer sends a fine stream of tiny droplets for a smooth bead and deep penetration, but it needs higher voltage and an argon-rich gas. Spray gives a cleaner higher-deposition weld."
+  },
+  {
+    "id": 485,
+    "domain": "welding_processes",
+    "front": "What is short circuit transfer and where is it used?",
+    "back": "Short circuit transfer happens at low voltage when the wire touches the pool, shorts, and pinches off a tiny drop many times a second. It runs cool, so it is used for thin metal and all-position welding, including the root pass on pipe. The trade-off is shallow penetration."
+  },
+  {
+    "id": 486,
+    "domain": "welding_processes",
+    "front": "Why is shielding gas flow rate important?",
+    "back": "The gas flow must be high enough to protect the weld but not so high that it turns turbulent and sucks in air. Too little flow lets air in and causes porosity, while too much wastes gas and can pull in air. Drafts and wind also disturb the shield, so flow is matched to the job."
+  },
+  {
+    "id": 487,
+    "domain": "welding_processes",
+    "front": "What causes porosity from shielding gas problems?",
+    "back": "Porosity from gas problems comes from too low gas flow, a blocked or damaged nozzle, leaks in the hose, wind blowing the shield away, or spatter clogging the cup. Any of these lets air reach the molten pool and trap gas as it freezes. Checking the gas system fixes most of it."
+  },
+  {
+    "id": 488,
+    "domain": "welding_processes",
+    "front": "What is duty cycle on a welding machine?",
+    "back": "Duty cycle is the percentage of a ten-minute period that a machine can weld at a given current without overheating. A 60 percent duty cycle at 250 amps means six minutes welding, four minutes cooling. Going past the duty cycle can trip the machine or damage it."
+  },
+  {
+    "id": 489,
+    "domain": "welding_processes",
+    "front": "What is the difference between CV and CC welding power?",
+    "back": "CV means Constant Voltage, used for wire processes like MIG and FCAW, where the machine holds voltage steady and the wire feed sets the current. CC means Constant Current, used for stick and TIG, where the current stays steady even as arc length changes. Each process needs the matching power type."
+  },
+  {
+    "id": 490,
+    "domain": "welding_processes",
+    "front": "Why does FCAW use a constant voltage power source?",
+    "back": "FCAW feeds wire at a set speed, and a constant voltage machine automatically adjusts the current to melt the wire at that rate, keeping the arc length stable. This self-correcting action lets the welder just guide the gun. CC power would not keep a steady arc with continuous wire."
+  },
+  {
+    "id": 491,
+    "domain": "welding_processes",
+    "front": "What is arc blow and what causes it?",
+    "back": "Arc blow is when the arc bends away from where you point it, usually at the ends of a joint or near clamps. It is caused by magnetic fields in the work, mostly with DC current. Moving the ground clamp, using AC, or wrapping the cable can reduce it."
+  },
+  {
+    "id": 492,
+    "domain": "welding_processes",
+    "front": "Why is joint cleaning important before welding?",
+    "back": "Rust, paint, oil, mill scale, and moisture all add gas and impurities that cause porosity, cracking, and lack of fusion. Grinding or brushing the joint to clean bright metal gives a sound weld. The WPS often requires a set distance of cleaning on each side."
+  },
+  {
+    "id": 493,
+    "domain": "welding_processes",
+    "front": "What is a backing strip or backing bar?",
+    "back": "A backing strip is a piece placed behind the root of a joint to support the molten pool so the weld does not fall through and to ensure full root fusion. It can be steel left in place or copper or ceramic that is removed. It helps get a solid root on single-sided welds."
+  },
+  {
+    "id": 494,
+    "domain": "welding_processes",
+    "front": "What is the purpose of a tack weld?",
+    "back": "A tack weld is a small temporary weld that holds the parts in position and the gap set before the full welding is done. It keeps the joint from moving and warping as you weld. Tacks must be clean and sound because they often become part of the final weld."
+  },
+  {
+    "id": 495,
+    "domain": "welding_processes",
+    "front": "Why might a tack weld need to be ground out or remelted?",
+    "back": "A tack weld can have a crater crack, porosity, or be made cold without preheat, so it could become a defect in the finished weld. On critical work, tacks are ground out or fully remelted and tied into the final pass. Good tacks save trouble; bad tacks cause cracks."
+  },
+  {
+    "id": 496,
+    "domain": "welding_processes",
+    "front": "What is the difference between AC and DC for stick welding?",
+    "back": "DC gives a smoother, more stable arc and works well for most positions and low-hydrogen rods, and DCEP gives deeper penetration. AC is cheaper, helps fight arc blow, and works with certain electrodes, but the arc is rougher. The electrode and job decide which to use."
+  },
+  {
+    "id": 497,
+    "domain": "welding_processes",
+    "front": "What is dilution in welding and why does it matter?",
+    "back": "Dilution is how much melted base metal mixes into the weld and changes its chemistry. High dilution can lower the corrosion resistance or strength the filler was meant to give, which matters a lot on stainless and overlays. Controlling heat input and technique keeps dilution in check."
+  },
+  {
+    "id": 498,
+    "domain": "welding_processes",
+    "front": "Why is sensitization a concern when welding stainless steel?",
+    "back": "Sensitization happens when stainless is held in a certain heat range and chromium joins with carbon at the grain boundaries, leaving those areas low in chromium and prone to corrosion. Low-carbon grades like 304L and fast cooling reduce it. This is why the L grades are chosen for welded stainless."
+  },
+  {
+    "id": 499,
+    "domain": "welding_processes",
+    "front": "Why is aluminum welding more sensitive to porosity than steel?",
+    "back": "Molten aluminum readily soaks up hydrogen from moisture, oil, and its own oxide layer, and that hydrogen turns into bubbles as the weld freezes. The oxide also melts at a much higher temperature than the metal. Strict cleaning, dry filler, and AC cleaning action are needed to keep aluminum welds sound."
+  },
+  {
+    "id": 500,
+    "domain": "welding_processes",
+    "front": "What is a destructive test such as a bend test used for?",
+    "back": "A bend test physically bends a weld sample to check that it is sound and ductile, looking for cracks or openings on the stretched face. It is destructive because the sample is ruined in the process. Bend tests are used to qualify procedures and welders, not to check production parts."
+  }
+]
