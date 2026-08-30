@@ -279,7 +279,7 @@ function renderReview() {
   const ol = document.getElementById("options-list");
   const q  = questions[state.current - 1];
   if (!q) return;
-  document.getElementById("q-counter").textContent = `Review — Question ${state.current} of ${questions.length}`;
+  document.getElementById("q-counter").textContent = `Review, Question ${state.current} of ${questions.length}`;
   document.getElementById("question-text").textContent = q.question;
   const revImgWrap = document.getElementById("q-image-wrap");
   if (q.image) {
